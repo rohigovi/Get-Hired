@@ -28,4 +28,4 @@ class Job:
     def setJobDescription(self):
         self._job_description
     def __str__(self):
-        return self.job_title + ', ' + str(self._company_name) +  ', ' + str(self._company_location) + ', ' + str(self._job_description)
+        return '\nJOB TITLE: ' + str(self._job_title) + '\n\nCOMPANY NAME: ' + str(self._company_name) +  '\n\nLOCATION: ' + str(self._company_location) + '\n\nJOB DESCRIPTION: ' + str(self._job_description)
