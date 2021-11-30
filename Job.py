@@ -1,11 +1,9 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 28 16:33:02 2021
+Created on Tue Nov 23 19:44:45 2021
 
-@author: subhavkalra92
+@author: rohig
 """
-
 class Job:
     def __init__(self, job_title, company_name, company_location, job_description): # Default constructor
         self._job_title = job_title
@@ -30,4 +28,4 @@ class Job:
     def setJobDescription(self):
         self._job_description
     def __str__(self):
-        return '\nJOB TITLE: ' + self._job_title + '\n\nCOMPANY NAME: ' + str(self._company_name) +  '\n\nLOCATION: ' + str(self._company_location) + '\n\nJOB DESCRIPTION: ' + str(self._job_description)
+        return '\nJOB TITLE: ' + str(self._job_title) + '\n\nCOMPANY NAME: ' + str(self._company_name) +  '\n\nLOCATION: ' + str(self._company_location) + '\n\nJOB DESCRIPTION: ' + str(self._job_description)

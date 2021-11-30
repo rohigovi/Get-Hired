@@ -11,7 +11,7 @@ def getUrl(position, location):
         template = 'https://www.indeed.com/jobs?q={}&l={}'
         url = template.format(position, location)
         return url
-    
+
 def getRecord(card):
     '''Extract job date from a single record '''
     try:
@@ -64,20 +64,20 @@ def scrape(position, location):
         records = []  # creating the record list
         url = getUrl(position, location)  # user inputs location and role
         print(url)
-        try: 
+        try:
             response = requests.get(url.strip(), headers=headers)
-        except requests.exceptions.Timeout as err: 
+        except requests.exceptions.Timeout as err:
             print(err)
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         cards = soup.find_all('div', 'job_seen_beacon')
-       
+
         jobList = []
         for card in cards:
             record = getRecord(card)
             job = Job(record[0], record[1], record[2], record[3])
             jobList.append(job)
-            
+
         for job in jobList:
             print(job.__str__())
 
