@@ -3,7 +3,8 @@ import requests
 import csv
 from time import sleep
 from random import randint
-from datetime import datetime
+from datetime import datetime, timedelta
+from datetime import date
 from Job import Job
 import re
 
@@ -15,30 +16,43 @@ def getUrl(position, location):
 def getRecord(card):
     '''Extract job date from a single record '''
     try:
-        job_title = card.find('span',{'class':'title'})
+        job_title = card.find('div').find_all('span')
+        for title in job_title:
+            if 'title' in (str(title)):
+                job_title = title.text
+        if(job_title is None):
+            job_title = ''
     except AttributeError:
         job_title = ''
     try:
-        company_name = card.find('span',{'class':'companyName'})
+        company_name = card.find('span',{'class':'companyName'}).text
+        if(company_name is None):
+            company_name = ''
     except AttributeError:
         company_name = ''
     try:
-        company_location = card.find('span',{'class': 'companyLocation'})
+        company_location = card.find('div',{'class': 'companyLocation'}).text
+        if(company_location is None):
+            company_location = ''
     except AttributeError:
         company_location = ''
     try:
         job_summary = card.find('div', {'class': 'job-snippet'}).text
+        if(job_summary is None):
+            job_summary = ''
     except AttributeError:
         job_summary = ''
     try:
         job_date = card.find('span', {'class' : 'date'}).text
-        if('Today' or 'Just Posted' in job_date):
-            job_date = datetime.date.today()
-        elif('Ago' in job_date):
-            delta_days = re.findall(r'\d+',job_date)[0]
-            delta_days = datetime.timedelta(int(delta_days))
+        print(job_date)
+        if(str('Today').lower() in str(job_date).lower() or str('Just Posted').lower() in job_date.lower()):
+            job_date = date.today()
+        elif(str('Ago').lower() in str(job_date).lower()):
+            delta_days = re.findall(r'\d+',str(job_date))[0]
+            job_date = date.today()
+            delta_days = timedelta(int(delta_days))
             job_date = job_date - delta_days
-    except AttributeError:
+    except:
         job_date = ''
     return (job_title, company_name, company_location, job_summary,job_date)
 
@@ -71,21 +85,18 @@ def scrape(position, location):
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         cards = soup.find_all('div', 'job_seen_beacon')
-       
         jobList = []
         for card in cards:
             if(len(jobList) > 19):
                 break
-            print(card)
             record = getRecord(card)
             job = Job(record[0], record[1], record[2], record[3], record[4])
             jobList.append(job)
-            
-        print(jobList)
         for job in jobList:
             print(job.__str__())
+        break
 
 def main():
-    scrape('data scientist','charlotte nc')   #user input
+    scrape('data scientist','charlotte nc')
 if __name__=="__main__":
     main()

@@ -33,4 +33,4 @@ class Job:
     def setJobDate(self, job_date):
         self._job_description = job_date 
     def __str__(self):
-        return '\nJOB TITLE:' + self._job_date + '\nJOB TITLE: ' + str(self._job_title) + '\n\nCOMPANY NAME: ' + str(self._company_name) +  '\n\nLOCATION: ' + str(self._company_location) + '\n\nJOB DESCRIPTION: ' + str(self._job_description)
+        return '\nJOB DATE:' + str(self._job_date) + '\nJOB TITLE: ' + str(self._job_title) + '\n\nCOMPANY NAME: ' + str(self._company_name) +  '\n\nLOCATION: ' + str(self._company_location) + '\n\nJOB DESCRIPTION: ' + str(self._job_description)
