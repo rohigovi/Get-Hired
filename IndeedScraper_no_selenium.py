@@ -5,6 +5,7 @@ from time import sleep
 from random import randint
 from datetime import datetime
 from Job import Job
+import re
 
 def getUrl(position, location):
         template = 'https://www.indeed.com/jobs?q={}&l={}'
@@ -29,7 +30,18 @@ def getRecord(card):
         job_summary = card.find('div', {'class': 'job-snippet'}).text
     except AttributeError:
         job_summary = ''
-    return (job_title, company_name, company_location, job_summary)
+    try:
+        job_date = card.find('span', {'class' : 'date'}).text
+        if('Today' or 'Just Posted' in job_date):
+            job_date = datetime.date.today()
+        elif('Ago' in job_date):
+            delta_days = re.findall(r'\d+',job_date)[0]
+            delta_days = datetime.timedelta(int(delta_days))
+            job_date = job_date - delta_days
+    except AttributeError:
+        job_date = ''
+    return (job_title, company_name, company_location, job_summary,job_date)
+
 
 def scrape(position, location):
     # Run the main program reouting
@@ -62,11 +74,14 @@ def scrape(position, location):
        
         jobList = []
         for card in cards:
+            if(len(jobList) > 19):
+                break
             print(card)
             record = getRecord(card)
-            job = Job(record[0], record[1], record[2], record[3])
+            job = Job(record[0], record[1], record[2], record[3], record[4])
             jobList.append(job)
             
+        print(jobList)
         for job in jobList:
             print(job.__str__())
 
