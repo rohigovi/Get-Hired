@@ -102,11 +102,9 @@ class IndeedScraper():
             soup = BeautifulSoup(response.text, 'html.parser')
             cards = soup.find_all('div', 'job_seen_beacon')
             for card in cards:
-                if(len(self.__jobList) > 19):
+                if(len(self.__jobList) > 49):
                     break
                 record = self.getRecord(card)
                 job = Job(record[0], record[1], record[2], record[3], record[4])
                 self.__jobList.append(job)
-            for job in self.__jobList:
-                print(job.__str__())
             break

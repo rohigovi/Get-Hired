@@ -56,7 +56,7 @@ def apidata_Remotive(role): #optimised for 20 results to be fetched
         print(type(data))
         df1 = pd.json_normalize(data['jobs'])
     
-    jobs1 = df1[['id','title','company_name','candidate_required_location','publication_date']]
+    jobs1 = df1[['title','company_name','candidate_required_location','publication_date']]
     desc= df1['description']
     desc_list = []
     for i in desc:
@@ -67,12 +67,13 @@ def apidata_Remotive(role): #optimised for 20 results to be fetched
    
     jobs1 = jobs1.rename(columns={'title': 'job_title', 'company_name': 'company_name','candidate_required_location': 'company_location', 'description': 'job_description','publication_date': 'date_posted'})    
  #   jobs2 = jobs2.rename(columns={'title': 'job_title', 'company_name': 'company_name','location': 'company_location', 'description': 'job_description'})    
-
+    jobs_csv = jobs1.head(104)
+    jobs_csv = jobs_csv[['job_title','company_name','company_location','job_description','date_posted']]
     yest = date.today()-timedelta(days=1)
     #jobsDF = jobs1.append(jobs2)
    # jobsDF.reset_index(drop=True, inplace=True)
     recent_jobs = jobs1[jobs1['date_posted']==str(yest)]
-    jobs1.to_csv('file_name.csv', mode = 'a', sep=',')    
+    jobs_csv.to_csv('file_name.csv', mode = 'a', sep=',')    
     jobs = jobs1.head(20)
     
 
@@ -85,6 +86,7 @@ def apidata_Remotive(role): #optimised for 20 results to be fetched
         print(job.__str__())
         print('****************************************************************************')
     
+    return jobs_csv
 def apidata_google(role, location): #optimised for 20 results to be fetched
     url = 'https://serpapi.com/search.json?engine=google_jobs&q=' + role + location + '&hl=en&api_key=2606e41895b5d1a39ab40778b4f0050ea268e1eb5ea6a86e16595d4ad438eed9&start=0&num=10'
     response = requests.get(url, headers = headers)
@@ -120,19 +122,20 @@ def apidata_google(role, location): #optimised for 20 results to be fetched
         for job in jobList:
             print(job.__str__())
             print('****************************************************************************')
-
+    return jobsDF
 def scrape_indeed(role, location):
 
     indeed = IndeedScraper(role, location)
     indeed.scrape(role, location)
     jobList = indeed.getJobList()
-    jobsDF = pd.DataFrame((job.getJobTitle(), job.getCompanyName(), job.getCompanyLocation(), job.getJobDescription()) for job in jobList)
-    jobsDF = jobsDF.rename(columns={0: "job_title", 1: "company_name",2: "company_location",3: "job_description"})
-
-    jobsDF.to_csv('file_name.csv', mode = 'a' , sep=',')
+    jobsDF = pd.DataFrame((job.getJobTitle(), job.getCompanyName(), job.getCompanyLocation(), job.getJobDescription().strip(), job.getJobDate()) for job in jobList)
+    jobsDF = jobsDF.rename(columns={0: "job_title", 1: "company_name",2: "company_location",3: "job_description",4:"date_posted"})
+    jobsDF.to_csv('filename.csv', mode = 'a' , sep=',')
     for job in jobList:       
         print(job.__str__())
+
         print('****************************************************************************')
+    return jobsDF
     
 def autopct_format(values):
     def my_format(pct):
@@ -153,17 +156,23 @@ def main():
 6: See Industry insights
 7: See Job Postings Over Time
 Please enter your choice: """))
+        
+        role = ''
+        location = ''
+        df_all = pd.DataFrame()
         if choice == 2 :
             role = input('Enter the role: ')
-            apidata_Remotive(role)
+            pd.concat([df_all, apidata_Remotive(role)],axis = 1)
+
         elif choice == 1:
             role = input('Enter the role: ')
             location = input ('Enter the location: ')
-            apidata_google(role,location)
+            pd.concat([df_all, apidata_google(role,location)],axis = 1)
+
         elif choice == 3:
             role = input('Enter the role: ')
             location = input ('Enter the location: ')
-            scrape_indeed(role,location)
+            pd.concat([df_all, scrape_indeed(role, location)],axis = 1)
             
         elif choice == 4:
             role = input('Enter the role: ')
@@ -171,6 +180,28 @@ Please enter your choice: """))
             # zp =  ZipRecruiter()
             # zp.get_url(role,location)
             # zp.search_dir()
+        elif choice == 5:
+            inp = input(""""Do you want(enter 1 or 2)
+                        1.Analytics on your previous searches
+                        2.Start a fresh search""")
+            if(inp == 1):        
+                if(df_all.empty):
+                    print('You don\'t have data stored from previous searches, try other menu options')
+                else:
+                    df_all.plot(x='date_posted', y='job_title', style='o')
+
+                    #Plots
+                
+            elif(inp == 2):
+                df_all_new = []
+                role = input('Starting a new search...Enter the role: ')
+                
+                #Clearing the file: 
+                df_all_new = pd.concat([df_all_new, scrape_indeed(role, '')],axis = 1)
+                df_all_new.plot(x='date_posted', y='job_title', style='o')
+
+
+            
         elif choice == 6:
             state = input('Please Enter the full name of the state you are interested in:\n')
             quarter1 = pd.read_csv('data\\Quarter1_StateWide.csv')
@@ -190,6 +221,7 @@ Please enter your choice: """))
 
             plt.title('Jobs added per industry in ' + state + ' from Jan-June 2021')
             plt.show()
+        
             
         # elif choice == 5:
         #     print('Here are the jobs you have searched for:')
