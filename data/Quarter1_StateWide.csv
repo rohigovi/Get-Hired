@@ -1,0 +1,887 @@
+,"Area
+Code",St,Cnty,Own,NAICS,Year,Qtr,Area Type,St Name,Area,Ownership,Industry,Status Code,Establishment Count,January Employment,February Employment,March Employment,Total Quarterly Wages,Average Weekly Wage,Employment Location Quotient Relative to U.S.,Total Wage Location Quotient Relative to U.S.
+18,01000,01,0.0,0,10,2021,1,State,Alabama,Alabama -- Statewide,Total Covered,"10 Total, all industries",,136277,1912538,1925790,1933810,24847431907,993,1.0,1.0
+19,01000,01,0.0,1,10,2021,1,State,Alabama,Alabama -- Statewide,Federal Government,"10 Total, all industries",,1250,55186,55351,55568,1136428310,1579,1.41,1.81
+20,01000,01,0.0,2,10,2021,1,State,Alabama,Alabama -- Statewide,State Government,"10 Total, all industries",,1357,95262,96909,97333,1328920179,1059,1.53,1.67
+21,01000,01,0.0,3,10,2021,1,State,Alabama,Alabama -- Statewide,Local Government,"10 Total, all industries",,3725,208290,208500,208989,2337160164,862,1.1,1.16
+22,01000,01,0.0,5,10,2021,1,State,Alabama,Alabama -- Statewide,Private,"10 Total, all industries",,129945,1553800,1565030,1571920,20044923254,986,0.96,0.94
+23,01000,01,0.0,5,101,2021,1,State,Alabama,Alabama -- Statewide,Private,101 Goods-producing,,18504,371362,372853,374427,5424101543,1119,1.3,1.39
+24,01000,01,0.0,5,1011,2021,1,State,Alabama,Alabama -- Statewide,Private,1011 Natural resources and mining,,1843,17230,17116,17203,244182028,1093,0.76,0.9
+25,01000,01,0.0,5,1012,2021,1,State,Alabama,Alabama -- Statewide,Private,1012 Construction,,10769,91973,92531,93912,1298818566,1077,0.96,1.08
+26,01000,01,0.0,5,1013,2021,1,State,Alabama,Alabama -- Statewide,Private,1013 Manufacturing,,5892,262159,263206,263312,3881100949,1136,1.57,1.59
+27,01000,01,0.0,5,102,2021,1,State,Alabama,Alabama -- Statewide,Private,102 Service-providing,,111441,1182438,1192177,1197493,14620821711,945,0.89,0.84
+28,01000,01,0.0,5,1021,2021,1,State,Alabama,Alabama -- Statewide,Private,"1021 Trade, transportation, and utilities",,32922,377381,378630,380113,4477782717,910,1.02,1.18
+29,01000,01,0.0,5,1022,2021,1,State,Alabama,Alabama -- Statewide,Private,1022 Information,,2923,18969,19111,19190,353937845,1426,0.51,0.3
+30,01000,01,0.0,5,1023,2021,1,State,Alabama,Alabama -- Statewide,Private,1023 Financial activities,,14201,93839,94219,94869,2038665912,1663,0.84,0.65
+31,01000,01,0.0,5,1024,2021,1,State,Alabama,Alabama -- Statewide,Private,1024 Professional and business services,,23989,247463,249919,250263,3743298421,1155,0.88,0.76
+32,01000,01,0.0,5,1025,2021,1,State,Alabama,Alabama -- Statewide,Private,1025 Education and health services,,16674,227430,229551,228329,2737746891,922,0.73,0.86
+33,01000,01,0.0,5,1026,2021,1,State,Alabama,Alabama -- Statewide,Private,1026 Leisure and hospitality,,11446,175169,177973,181532,829395711,358,1.03,1.01
+34,01000,01,0.0,5,1027,2021,1,State,Alabama,Alabama -- Statewide,Private,1027 Other services,,9285,42182,42773,43196,439971905,792,0.78,0.96
+35,01000,01,0.0,5,1029,2021,1,State,Alabama,Alabama -- Statewide,Private,1029 Unclassified,,1,5,1,1,22309,735,0.0,0.0
+1193,02000,02,0.0,0,10,2021,1,State,Alaska,Alaska -- Statewide,Total Covered,"10 Total, all industries",,23153,287474,292657,295312,4261206687,1123,1.0,1.0
+1194,02000,02,0.0,1,10,2021,1,State,Alaska,Alaska -- Statewide,Federal Government,"10 Total, all industries",,558,14585,14610,14746,290486657,1526,2.45,2.7
+1195,02000,02,0.0,2,10,2021,1,State,Alaska,Alaska -- Statewide,State Government,"10 Total, all industries",,838,21241,21583,21666,309042964,1106,2.23,2.27
+1196,02000,02,0.0,3,10,2021,1,State,Alaska,Alaska -- Statewide,Local Government,"10 Total, all industries",,644,37659,38182,38238,494004327,999,1.32,1.43
+1197,02000,02,0.0,5,10,2021,1,State,Alaska,Alaska -- Statewide,Private,"10 Total, all industries",,21113,213989,218282,220662,3167672739,1120,0.88,0.86
+1198,02000,02,0.0,5,101,2021,1,State,Alaska,Alaska -- Statewide,Private,101 Goods-producing,,3673,33218,34845,35822,789526794,1754,0.81,1.18
+1199,02000,02,0.0,5,1011,2021,1,State,Alaska,Alaska -- Statewide,Private,1011 Natural resources and mining,,565,10973,11106,11364,419204917,2893,3.31,9.02
+1200,02000,02,0.0,5,1012,2021,1,State,Alaska,Alaska -- Statewide,Private,1012 Construction,,2485,13061,13246,13620,234201395,1354,0.91,1.14
+1201,02000,02,0.0,5,1013,2021,1,State,Alaska,Alaska -- Statewide,Private,1013 Manufacturing,,623,9184,10493,10838,136120482,1029,0.42,0.33
+1202,02000,02,0.0,5,102,2021,1,State,Alaska,Alaska -- Statewide,Private,102 Service-providing,,17440,180771,183437,184840,2378145945,1000,0.89,0.79
+1203,02000,02,0.0,5,1021,2021,1,State,Alaska,Alaska -- Statewide,Private,"1021 Trade, transportation, and utilities",,4345,58444,58680,58767,765142510,1004,1.04,1.18
+1204,02000,02,0.0,5,1022,2021,1,State,Alaska,Alaska -- Statewide,Private,1022 Information,,414,4682,4702,4724,86513651,1415,0.82,0.43
+1205,02000,02,0.0,5,1023,2021,1,State,Alaska,Alaska -- Statewide,Private,1023 Financial activities,,1550,10207,10306,10346,187708490,1404,0.6,0.35
+1206,02000,02,0.0,5,1024,2021,1,State,Alaska,Alaska -- Statewide,Private,1024 Professional and business services,,3831,24697,25323,25668,398698893,1216,0.59,0.47
+1207,02000,02,0.0,5,1025,2021,1,State,Alaska,Alaska -- Statewide,Private,1025 Education and health services,,2737,49342,50006,50231,693973756,1071,1.06,1.27
+1208,02000,02,0.0,5,1026,2021,1,State,Alaska,Alaska -- Statewide,Private,1026 Leisure and hospitality,,2694,24534,25445,26113,149719343,454,0.97,1.06
+1209,02000,02,0.0,5,1027,2021,1,State,Alaska,Alaska -- Statewide,Private,1027 Other services,,1766,8785,8877,8893,95291473,828,1.06,1.22
+1210,02000,02,0.0,5,1029,2021,1,State,Alaska,Alaska -- Statewide,Private,1029 Unclassified,,103,80,98,98,1097829,918,0.25,0.2
+1736,04000,04,0.0,0,10,2021,1,State,Arizona,Arizona -- Statewide,Total Covered,"10 Total, all industries",,176357,2863340,2888128,2897464,43025567909,1148,1.0,1.0
+1737,04000,04,0.0,1,10,2021,1,State,Arizona,Arizona -- Statewide,Federal Government,"10 Total, all industries",,790,56872,56996,56988,1098687982,1484,0.96,1.01
+1738,04000,04,0.0,2,10,2021,1,State,Arizona,Arizona -- Statewide,State Government,"10 Total, all industries",,324,69866,69675,69721,1007733228,1111,0.73,0.73
+1739,04000,04,0.0,3,10,2021,1,State,Arizona,Arizona -- Statewide,Local Government,"10 Total, all industries",,1585,259743,262432,262800,3344514974,983,0.93,0.96
+1740,04000,04,0.0,5,10,2021,1,State,Arizona,Arizona -- Statewide,Private,"10 Total, all industries",,173658,2476859,2499025,2507955,37574631725,1159,1.02,1.01
+1741,04000,04,0.0,5,101,2021,1,State,Arizona,Arizona -- Statewide,Private,101 Goods-producing,,21056,391939,393348,394251,7234548228,1415,0.91,1.07
+1742,04000,04,0.0,5,1011,2021,1,State,Arizona,Arizona -- Statewide,Private,1011 Natural resources and mining,,1325,40584,39757,38085,625967988,1220,1.13,1.33
+1743,04000,04,0.0,5,1012,2021,1,State,Arizona,Arizona -- Statewide,Private,1012 Construction,,14514,173389,174489,176188,2660003614,1171,1.2,1.28
+1744,04000,04,0.0,5,1013,2021,1,State,Arizona,Arizona -- Statewide,Private,1013 Manufacturing,,5217,177966,179102,179978,3948576626,1697,0.72,0.94
+1745,04000,04,0.0,5,102,2021,1,State,Arizona,Arizona -- Statewide,Private,102 Service-providing,,152602,2084920,2105677,2113704,30340083497,1111,1.04,1.0
+1746,04000,04,0.0,5,1021,2021,1,State,Arizona,Arizona -- Statewide,Private,"1021 Trade, transportation, and utilities",,34558,569148,570243,570188,7346789433,992,1.03,1.12
+1747,04000,04,0.0,5,1022,2021,1,State,Arizona,Arizona -- Statewide,Private,1022 Information,,4309,45456,46171,45778,1202647307,2020,0.81,0.59
+1748,04000,04,0.0,5,1023,2021,1,State,Arizona,Arizona -- Statewide,Private,1023 Financial activities,,21672,231164,232561,233286,5687446056,1883,1.37,1.05
+1749,04000,04,0.0,5,1024,2021,1,State,Arizona,Arizona -- Statewide,Private,1024 Professional and business services,,43423,436371,442122,442583,7341172453,1282,1.04,0.86
+1750,04000,04,0.0,5,1025,2021,1,State,Arizona,Arizona -- Statewide,Private,1025 Education and health services,,21340,456799,460488,460465,6153426767,1031,0.99,1.12
+1751,04000,04,0.0,5,1026,2021,1,State,Arizona,Arizona -- Statewide,Private,1026 Leisure and hospitality,,14549,275203,282508,288955,1854608291,505,1.09,1.31
+1752,04000,04,0.0,5,1027,2021,1,State,Arizona,Arizona -- Statewide,Private,1027 Other services,,11291,70376,71083,71882,745154286,806,0.87,0.94
+1753,04000,04,0.0,5,1029,2021,1,State,Arizona,Arizona -- Statewide,Private,1029 Unclassified,,1460,403,501,567,8838904,1387,0.15,0.16
+2039,05000,05,0.0,0,10,2021,1,State,Arkansas,Arkansas -- Statewide,Total Covered,"10 Total, all industries",,94928,1182148,1180293,1196838,14729645402,955,1.0,1.0
+2040,05000,05,0.0,1,10,2021,1,State,Arkansas,Arkansas -- Statewide,Federal Government,"10 Total, all industries",,1191,20394,20345,20339,353936087,1337,0.83,0.95
+2041,05000,05,0.0,2,10,2021,1,State,Arkansas,Arkansas -- Statewide,State Government,"10 Total, all industries",,1056,64527,65581,66065,813396004,957,1.67,1.73
+2042,05000,05,0.0,3,10,2021,1,State,Arkansas,Arkansas -- Statewide,Local Government,"10 Total, all industries",,1997,109895,109665,109943,1052499715,737,0.94,0.88
+2043,05000,05,0.0,5,10,2021,1,State,Arkansas,Arkansas -- Statewide,Private,"10 Total, all industries",,90684,987332,984702,1000491,12509813596,971,0.98,0.99
+2044,05000,05,0.0,5,101,2021,1,State,Arkansas,Arkansas -- Statewide,Private,101 Goods-producing,,13068,223793,222835,227028,2751736141,943,1.27,1.19
+2045,05000,05,0.0,5,1011,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1011 Natural resources and mining,,2570,15072,14991,15604,173106507,875,1.12,1.08
+2046,05000,05,0.0,5,1012,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1012 Construction,,7483,53148,52118,54466,638430742,922,0.9,0.9
+2047,05000,05,0.0,5,1013,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1013 Manufacturing,,3015,155573,155726,156958,1940198892,956,1.51,1.34
+2048,05000,05,0.0,5,102,2021,1,State,Arkansas,Arkansas -- Statewide,Private,102 Service-providing,,77616,763539,761867,773463,9758077455,980,0.92,0.94
+2049,05000,05,0.0,5,1021,2021,1,State,Arkansas,Arkansas -- Statewide,Private,"1021 Trade, transportation, and utilities",,21982,246018,244380,247522,2896688551,906,1.08,1.29
+2050,05000,05,0.0,5,1022,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1022 Information,,1806,11174,11171,11144,239093246,1648,0.48,0.34
+2051,05000,05,0.0,5,1023,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1023 Financial activities,,9215,52056,52201,52152,959043596,1415,0.74,0.52
+2052,05000,05,0.0,5,1024,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1024 Professional and business services,,16134,143137,143327,144780,2926016434,1566,0.82,1.01
+2053,05000,05,0.0,5,1025,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1025 Education and health services,,15431,181922,181346,182761,2018972675,853,0.95,1.07
+2054,05000,05,0.0,5,1026,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1026 Leisure and hospitality,,7516,105220,105442,110370,489357685,352,1.01,1.01
+2055,05000,05,0.0,5,1027,2021,1,State,Arkansas,Arkansas -- Statewide,Private,1027 Other services,,5532,24012,24000,24734,228905268,726,0.72,0.85
+3346,06000,06,0.0,0,10,2021,1,State,California,California -- Statewide,Total Covered,"10 Total, all industries",,1639030,16055880,16387062,16497608,344150870259,1623,1.0,1.0
+3347,06000,06,0.0,1,10,2021,1,State,California,California -- Statewide,Federal Government,"10 Total, all industries",,3331,252315,251114,250490,5240036732,1604,0.74,0.6
+3348,06000,06,0.0,2,10,2021,1,State,California,California -- Statewide,State Government,"10 Total, all industries",,13567,512355,519788,523800,10877183477,1613,0.96,0.99
+3349,06000,06,0.0,3,10,2021,1,State,California,California -- Statewide,Local Government,"10 Total, all industries",,19243,1660020,1648320,1663138,31189973456,1448,1.03,1.11
+3350,06000,06,0.0,5,10,2021,1,State,California,California -- Statewide,Private,"10 Total, all industries",,1602889,13631190,13967840,14060180,296843676594,1644,1.0,1.0
+3351,06000,06,0.0,5,101,2021,1,State,California,California -- Statewide,Private,101 Goods-producing,,149251,2450707,2485376,2488534,54435228627,1692,1.01,1.01
+3352,06000,06,0.0,5,1011,2021,1,State,California,California -- Statewide,Private,1011 Natural resources and mining,,17648,363077,370102,360625,3575272188,754,1.88,0.95
+3353,06000,06,0.0,5,1012,2021,1,State,California,California -- Statewide,Private,1012 Construction,,87314,848011,861838,866909,15766639995,1412,1.04,0.95
+3354,06000,06,0.0,5,1013,2021,1,State,California,California -- Statewide,Private,1013 Manufacturing,,44289,1239619,1253436,1261000,35093316444,2157,0.88,1.04
+3355,06000,06,0.0,5,102,2021,1,State,California,California -- Statewide,Private,102 Service-providing,,1453638,11180483,11482464,11571646,242408447967,1634,1.0,1.0
+3356,06000,06,0.0,5,1021,2021,1,State,California,California -- Statewide,Private,"1021 Trade, transportation, and utilities",,202737,2975786,2973558,2969286,44459756300,1150,0.94,0.85
+3357,06000,06,0.0,5,1022,2021,1,State,California,California -- Statewide,Private,1022 Information,,29852,511234,553090,542482,34913186935,5014,1.68,2.14
+3358,06000,06,0.0,5,1023,2021,1,State,California,California -- Statewide,Private,1023 Financial activities,,114634,812618,817331,817111,32096523972,3027,0.84,0.74
+3359,06000,06,0.0,5,1024,2021,1,State,California,California -- Statewide,Private,1024 Professional and business services,,226083,2601423,2641412,2652159,75502726459,2207,1.09,1.11
+3360,06000,06,0.0,5,1025,2021,1,State,California,California -- Statewide,Private,1025 Education and health services,,664432,2662708,2691285,2703178,38620941420,1106,1.02,0.88
+3361,06000,06,0.0,5,1026,2021,1,State,California,California -- Statewide,Private,1026 Leisure and hospitality,,117850,1211181,1361101,1432522,11611476806,669,0.95,1.02
+3362,06000,06,0.0,5,1027,2021,1,State,California,California -- Statewide,Private,1027 Other services,,97590,404423,443383,453415,5189691119,920,0.96,0.82
+3363,06000,06,0.0,5,1029,2021,1,State,California,California -- Statewide,Private,1029 Unclassified,,460,1110,1304,1493,14144956,835,0.07,0.03
+4374,08000,08,0.0,0,10,2021,1,State,Colorado,Colorado -- Statewide,Total Covered,"10 Total, all industries",,224528,2593922,2617656,2634072,45412830983,1336,1.0,1.0
+4375,08000,08,0.0,1,10,2021,1,State,Colorado,Colorado -- Statewide,Federal Government,"10 Total, all industries",,1185,53393,53502,53688,1111953131,1598,1.0,0.97
+4376,08000,08,0.0,2,10,2021,1,State,Colorado,Colorado -- Statewide,State Government,"10 Total, all industries",,716,106394,107949,108642,1892385406,1352,1.25,1.3
+4377,08000,08,0.0,3,10,2021,1,State,Colorado,Colorado -- Statewide,Local Government,"10 Total, all industries",,1533,251540,252534,255438,3385908553,1029,0.99,0.92
+4378,08000,08,0.0,5,10,2021,1,State,Colorado,Colorado -- Statewide,Private,"10 Total, all industries",,221094,2182595,2203671,2216304,39022583893,1364,0.99,1.0
+4379,08000,08,0.0,5,101,2021,1,State,Colorado,Colorado -- Statewide,Private,101 Goods-producing,,30712,353040,354832,357655,6704915064,1452,0.91,0.94
+4380,08000,08,0.0,5,1011,2021,1,State,Colorado,Colorado -- Statewide,Private,1011 Natural resources and mining,,3315,37913,38225,38764,966410779,1941,1.26,1.95
+4381,08000,08,0.0,5,1012,2021,1,State,Colorado,Colorado -- Statewide,Private,1012 Construction,,21483,168864,169780,171735,2795662479,1264,1.29,1.27
+4382,08000,08,0.0,5,1013,2021,1,State,Colorado,Colorado -- Statewide,Private,1013 Manufacturing,,5914,146263,146827,147156,2942841806,1543,0.64,0.66
+4383,08000,08,0.0,5,102,2021,1,State,Colorado,Colorado -- Statewide,Private,102 Service-providing,,190382,1829555,1848839,1858649,32317668829,1347,1.01,1.01
+4384,08000,08,0.0,5,1021,2021,1,State,Colorado,Colorado -- Statewide,Private,"1021 Trade, transportation, and utilities",,37067,480660,478124,477046,6734050706,1082,0.94,0.97
+4385,08000,08,0.0,5,1022,2021,1,State,Colorado,Colorado -- Statewide,Private,1022 Information,,4882,74288,75027,74907,2744523774,2825,1.45,1.27
+4386,08000,08,0.0,5,1023,2021,1,State,Colorado,Colorado -- Statewide,Private,1023 Financial activities,,26402,167537,168634,169332,4997704579,2282,1.1,0.88
+4387,08000,08,0.0,5,1024,2021,1,State,Colorado,Colorado -- Statewide,Private,1024 Professional and business services,,61472,428784,433706,436741,10571859322,1878,1.13,1.18
+4388,08000,08,0.0,5,1025,2021,1,State,Colorado,Colorado -- Statewide,Private,1025 Education and health services,,24157,337351,341168,340720,4491523827,1017,0.8,0.77
+4389,08000,08,0.0,5,1026,2021,1,State,Colorado,Colorado -- Statewide,Private,1026 Leisure and hospitality,,17910,262704,273016,279978,1878323573,531,1.16,1.25
+4390,08000,08,0.0,5,1027,2021,1,State,Colorado,Colorado -- Statewide,Private,1027 Other services,,17715,77113,78004,78634,875359580,864,1.05,1.05
+4391,08000,08,0.0,5,1029,2021,1,State,Colorado,Colorado -- Statewide,Private,1029 Unclassified,,777,1118,1160,1291,24323468,1573,0.37,0.43
+5511,09000,09,0.0,0,10,2021,1,State,Connecticut,Connecticut -- Statewide,Total Covered,"10 Total, all industries",,128243,1538025,1539734,1551929,31543468341,1572,1.0,1.0
+5512,09000,09,0.0,1,10,2021,1,State,Connecticut,Connecticut -- Statewide,Federal Government,"10 Total, all industries",,575,18292,18301,18245,350521419,1475,0.58,0.44
+5513,09000,09,0.0,2,10,2021,1,State,Connecticut,Connecticut -- Statewide,State Government,"10 Total, all industries",,613,60752,61530,61395,1111631056,1397,1.2,1.1
+5514,09000,09,0.0,3,10,2021,1,State,Connecticut,Connecticut -- Statewide,Local Government,"10 Total, all industries",,2193,134946,134966,136580,2086432906,1184,0.9,0.81
+5515,09000,09,0.0,5,10,2021,1,State,Connecticut,Connecticut -- Statewide,Private,"10 Total, all industries",,124862,1324035,1324937,1335709,27994882960,1621,1.01,1.03
+5516,09000,09,0.0,5,101,2021,1,State,Connecticut,Connecticut -- Statewide,Private,101 Goods-producing,,14256,208516,207804,211294,4483417958,1649,0.91,0.9
+5517,09000,09,0.0,5,1011,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1011 Natural resources and mining,,484,4108,4139,4532,45227184,817,0.25,0.13
+5518,09000,09,0.0,5,1012,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1012 Construction,,9394,53394,52646,54618,947142993,1360,0.69,0.62
+5519,09000,09,0.0,5,1013,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1013 Manufacturing,,4378,151014,151019,152144,3491047781,1774,1.13,1.13
+5520,09000,09,0.0,5,102,2021,1,State,Connecticut,Connecticut -- Statewide,Private,102 Service-providing,,110606,1115519,1117133,1124415,23511465002,1616,1.04,1.06
+5521,09000,09,0.0,5,1021,2021,1,State,Connecticut,Connecticut -- Statewide,Private,"1021 Trade, transportation, and utilities",,24831,289796,283918,283412,4002489624,1078,0.95,0.83
+5522,09000,09,0.0,5,1022,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1022 Information,,3258,28820,29216,29184,1137310455,3009,0.96,0.76
+5523,09000,09,0.0,5,1023,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1023 Financial activities,,11497,116314,116141,116241,7165207896,4742,1.28,1.81
+5524,09000,09,0.0,5,1024,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1024 Professional and business services,,25009,202830,205854,206177,5344088292,2006,0.9,0.86
+5525,09000,09,0.0,5,1025,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1025 Education and health services,,20737,319972,321819,324007,4641186896,1109,1.3,1.15
+5526,09000,09,0.0,5,1026,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1026 Leisure and hospitality,,11023,109167,111443,115844,703815892,483,0.82,0.68
+5527,09000,09,0.0,5,1027,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1027 Other services,,12494,47478,47488,48169,478574931,772,1.09,0.83
+5528,09000,09,0.0,5,1029,2021,1,State,Connecticut,Connecticut -- Statewide,Private,1029 Unclassified,,1757,1142,1254,1381,38791016,2370,0.66,0.98
+5691,10000,10,0.0,0,10,2021,1,State,Delaware,Delaware -- Statewide,Total Covered,"10 Total, all industries",,35760,425276,426043,430580,7027486193,1265,1.0,1.0
+5692,10000,10,0.0,1,10,2021,1,State,Delaware,Delaware -- Statewide,Federal Government,"10 Total, all industries",,194,5843,5900,5890,108840712,1424,0.67,0.61
+5693,10000,10,0.0,2,10,2021,1,State,Delaware,Delaware -- Statewide,State Government,"10 Total, all industries",,103,32704,33220,33313,427677683,995,2.35,1.9
+5694,10000,10,0.0,3,10,2021,1,State,Delaware,Delaware -- Statewide,Local Government,"10 Total, all industries",,301,27084,27222,27400,363118742,1026,0.65,0.64
+5695,10000,10,0.0,5,10,2021,1,State,Delaware,Delaware -- Statewide,Private,"10 Total, all industries",,35162,359645,359701,363977,6127849056,1305,1.0,1.01
+5696,10000,10,0.0,5,101,2021,1,State,Delaware,Delaware -- Statewide,Private,101 Goods-producing,,4019,47971,47698,48598,763196879,1221,0.76,0.69
+5697,10000,10,0.0,5,1011,2021,1,State,Delaware,Delaware -- Statewide,Private,1011 Natural resources and mining,,184,989,1002,1065,10634052,803,0.21,0.14
+5698,10000,10,0.0,5,1012,2021,1,State,Delaware,Delaware -- Statewide,Private,1012 Construction,,3149,22167,21976,22825,335699629,1157,1.04,0.99
+5699,10000,10,0.0,5,1013,2021,1,State,Delaware,Delaware -- Statewide,Private,1013 Manufacturing,,686,24815,24720,24708,416863198,1296,0.66,0.61
+5700,10000,10,0.0,5,102,2021,1,State,Delaware,Delaware -- Statewide,Private,102 Service-providing,,31143,311674,312003,315379,5364652177,1318,1.05,1.08
+5701,10000,10,0.0,5,1021,2021,1,State,Delaware,Delaware -- Statewide,Private,"1021 Trade, transportation, and utilities",,7082,78316,77386,77698,884473651,875,0.94,0.82
+5702,10000,10,0.0,5,1022,2021,1,State,Delaware,Delaware -- Statewide,Private,1022 Information,,609,3294,3334,3317,76698482,1780,0.39,0.23
+5703,10000,10,0.0,5,1023,2021,1,State,Delaware,Delaware -- Statewide,Private,1023 Financial activities,,3052,47160,47294,47470,1571432734,2555,1.88,1.78
+5704,10000,10,0.0,5,1024,2021,1,State,Delaware,Delaware -- Statewide,Private,1024 Professional and business services,,10021,60422,61109,61982,1485125231,1868,0.98,1.07
+5705,10000,10,0.0,5,1025,2021,1,State,Delaware,Delaware -- Statewide,Private,1025 Education and health services,,5542,73613,73423,73723,1032847335,1080,1.06,1.15
+5706,10000,10,0.0,5,1026,2021,1,State,Delaware,Delaware -- Statewide,Private,1026 Leisure and hospitality,,2721,37893,38466,40084,213278713,423,1.02,0.92
+5707,10000,10,0.0,5,1027,2021,1,State,Delaware,Delaware -- Statewide,Private,1027 Other services,,2116,10976,10991,11105,100796031,703,0.9,0.78
+5821,12000,12,0.0,0,10,2021,1,State,Florida,Florida -- Statewide,Total Covered,"10 Total, all industries",,766901,8556687,8650067,8691899,123730371274,1102,1.0,1.0
+5822,12000,12,0.0,1,10,2021,1,State,Florida,Florida -- Statewide,Federal Government,"10 Total, all industries",,2025,146183,147223,146909,2782760839,1458,0.83,0.89
+5823,12000,12,0.0,2,10,2021,1,State,Florida,Florida -- Statewide,State Government,"10 Total, all industries",,2260,213052,215652,215866,2635575172,944,0.75,0.67
+5824,12000,12,0.0,3,10,2021,1,State,Florida,Florida -- Statewide,Local Government,"10 Total, all industries",,1603,710695,712534,714391,9520040394,1028,0.84,0.95
+5825,12000,12,0.0,5,10,2021,1,State,Florida,Florida -- Statewide,Private,"10 Total, all industries",,761013,7486757,7574658,7614733,108791994869,1107,1.03,1.02
+5826,12000,12,0.0,5,101,2021,1,State,Florida,Florida -- Statewide,Private,101 Goods-producing,,103481,1010503,1020399,1028410,14753036126,1113,0.79,0.76
+5827,12000,12,0.0,5,1011,2021,1,State,Florida,Florida -- Statewide,Private,1011 Natural resources and mining,,5456,75778,76540,77019,689978706,694,0.76,0.51
+5828,12000,12,0.0,5,1012,2021,1,State,Florida,Florida -- Statewide,Private,1012 Construction,,76276,556215,562566,567838,7594835082,1039,1.29,1.27
+5829,12000,12,0.0,5,1013,2021,1,State,Florida,Florida -- Statewide,Private,1013 Manufacturing,,21749,378510,381293,383553,6468222338,1306,0.51,0.53
+5830,12000,12,0.0,5,102,2021,1,State,Florida,Florida -- Statewide,Private,102 Service-providing,,657532,6476254,6554259,6586323,94038958743,1106,1.08,1.08
+5831,12000,12,0.0,5,1021,2021,1,State,Florida,Florida -- Statewide,Private,"1021 Trade, transportation, and utilities",,145923,1791726,1798703,1792911,22508855455,965,1.08,1.19
+5832,12000,12,0.0,5,1022,2021,1,State,Florida,Florida -- Statewide,Private,1022 Information,,14551,130600,133836,133371,3730250175,2164,0.78,0.63
+5833,12000,12,0.0,5,1023,2021,1,State,Florida,Florida -- Statewide,Private,1023 Financial activities,,84736,591898,596056,599960,15474713218,1997,1.18,1.0
+5834,12000,12,0.0,5,1024,2021,1,State,Florida,Florida -- Statewide,Private,1024 Professional and business services,,190149,1385520,1403801,1409445,24793406534,1363,1.1,1.01
+5835,12000,12,0.0,5,1025,2021,1,State,Florida,Florida -- Statewide,Private,1025 Education and health services,,88635,1302954,1315471,1316789,17518087707,1027,0.94,1.1
+5836,12000,12,0.0,5,1026,2021,1,State,Florida,Florida -- Statewide,Private,1026 Leisure and hospitality,,61117,1013768,1043122,1068596,7291641806,538,1.35,1.79
+5837,12000,12,0.0,5,1027,2021,1,State,Florida,Florida -- Statewide,Private,1027 Other services,,56066,254235,257160,259483,2641675038,791,1.05,1.16
+5838,12000,12,0.0,5,1029,2021,1,State,Florida,Florida -- Statewide,Private,1029 Unclassified,,16355,5553,6110,5768,80328810,1063,0.49,0.52
+7061,13000,13,0.0,0,10,2021,1,State,Georgia,Georgia -- Statewide,Total Covered,"10 Total, all industries",,327198,4344913,4375058,4397005,68025278611,1197,1.0,1.0
+7062,13000,13,0.0,1,10,2021,1,State,Georgia,Georgia -- Statewide,Federal Government,"10 Total, all industries",,1727,106582,106739,106858,2062592655,1487,1.19,1.2
+7063,13000,13,0.0,2,10,2021,1,State,Georgia,Georgia -- Statewide,State Government,"10 Total, all industries",,2721,133406,134591,135028,1851912481,1060,0.93,0.85
+7064,13000,13,0.0,3,10,2021,1,State,Georgia,Georgia -- Statewide,Local Government,"10 Total, all industries",,3926,398814,393484,395084,4550828241,884,0.92,0.82
+7065,13000,13,0.0,5,10,2021,1,State,Georgia,Georgia -- Statewide,Private,"10 Total, all industries",,318824,3706111,3740244,3760035,59559945234,1226,1.01,1.02
+7066,13000,13,0.0,5,101,2021,1,State,Georgia,Georgia -- Statewide,Private,101 Goods-producing,,38042,610917,615819,619744,9534977232,1192,0.94,0.89
+7067,13000,13,0.0,5,1011,2021,1,State,Georgia,Georgia -- Statewide,Private,1011 Natural resources and mining,,2866,28314,28210,28747,313167000,848,0.56,0.42
+7068,13000,13,0.0,5,1012,2021,1,State,Georgia,Georgia -- Statewide,Private,1012 Construction,,24088,198499,200321,202188,3239074166,1244,0.91,0.98
+7069,13000,13,0.0,5,1013,2021,1,State,Georgia,Georgia -- Statewide,Private,1013 Manufacturing,,11088,384104,387288,388809,5982736066,1190,1.02,0.9
+7070,13000,13,0.0,5,102,2021,1,State,Georgia,Georgia -- Statewide,Private,102 Service-providing,,280782,3095194,3124425,3140291,50024968002,1233,1.02,1.04
+7071,13000,13,0.0,5,1021,2021,1,State,Georgia,Georgia -- Statewide,Private,"1021 Trade, transportation, and utilities",,66506,930493,932895,934838,12465411160,1028,1.11,1.2
+7072,13000,13,0.0,5,1022,2021,1,State,Georgia,Georgia -- Statewide,Private,1022 Information,,6334,113794,118607,121664,4128991395,2691,1.41,1.28
+7073,13000,13,0.0,5,1023,2021,1,State,Georgia,Georgia -- Statewide,Private,1023 Financial activities,,30066,242866,244070,245085,7263480080,2290,0.95,0.85
+7074,13000,13,0.0,5,1024,2021,1,State,Georgia,Georgia -- Statewide,Private,1024 Professional and business services,,64012,706752,716117,715395,14655839354,1582,1.1,1.09
+7075,13000,13,0.0,5,1025,2021,1,State,Georgia,Georgia -- Statewide,Private,1025 Education and health services,,33111,566908,570596,572362,7867410690,1062,0.81,0.9
+7076,13000,13,0.0,5,1026,2021,1,State,Georgia,Georgia -- Statewide,Private,1026 Leisure and hospitality,,28034,414423,420639,427809,2251348654,411,1.06,1.0
+7077,13000,13,0.0,5,1027,2021,1,State,Georgia,Georgia -- Statewide,Private,1027 Other services,,20212,102715,102745,103564,1049779330,784,0.83,0.84
+7078,13000,13,0.0,5,1029,2021,1,State,Georgia,Georgia -- Statewide,Private,1029 Unclassified,,32507,17243,18756,19574,342707339,1423,3.32,4.01
+9924,15000,15,0.0,0,10,2021,1,State,Hawaii,Hawaii -- Statewide,Total Covered,"10 Total, all industries",,47841,551688,558967,566497,7915788357,1089,1.0,1.0
+9925,15000,15,0.0,1,10,2021,1,State,Hawaii,Hawaii -- Statewide,Federal Government,"10 Total, all industries",,352,34662,34523,34569,676709696,1505,2.99,3.39
+9926,15000,15,0.0,2,10,2021,1,State,Hawaii,Hawaii -- Statewide,State Government,"10 Total, all industries",,1310,62184,63933,64282,956457412,1159,3.44,3.78
+9927,15000,15,0.0,3,10,2021,1,State,Hawaii,Hawaii -- Statewide,Local Government,"10 Total, all industries",,260,18630,18617,18562,362649021,1500,0.33,0.56
+9928,15000,15,0.0,5,10,2021,1,State,Hawaii,Hawaii -- Statewide,Private,"10 Total, all industries",,45919,436212,441894,449084,5919972228,1029,0.93,0.87
+9929,15000,15,0.0,5,101,2021,1,State,Hawaii,Hawaii -- Statewide,Private,101 Goods-producing,,5605,53542,54159,54278,867956134,1237,0.64,0.7
+9930,15000,15,0.0,5,1011,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1011 Natural resources and mining,N,537,0,0,0,0,0,0.0,0.0
+9931,15000,15,0.0,5,1012,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1012 Construction,,4006,35889,36462,36607,673147114,1426,1.27,1.76
+9932,15000,15,0.0,5,1013,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1013 Manufacturing,N,1062,0,0,0,0,0,0.0,0.0
+9933,15000,15,0.0,5,102,2021,1,State,Hawaii,Hawaii -- Statewide,Private,102 Service-providing,,40314,382670,387735,394806,5052016094,1001,1.0,0.91
+9934,15000,15,0.0,5,1021,2021,1,State,Hawaii,Hawaii -- Statewide,Private,"1021 Trade, transportation, and utilities",,8000,103654,103183,103772,1245757965,926,0.95,1.03
+9935,15000,15,0.0,5,1022,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1022 Information,,1001,7226,8211,8637,157132874,1506,0.78,0.42
+9936,15000,15,0.0,5,1023,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1023 Financial activities,,3928,26086,26186,26352,585857243,1720,0.79,0.59
+9937,15000,15,0.0,5,1024,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1024 Professional and business services,,8619,64172,65278,65998,988861134,1168,0.79,0.63
+9938,15000,15,0.0,5,1025,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1025 Education and health services,,6060,82713,83539,84198,1186803304,1094,0.92,1.17
+9939,15000,15,0.0,5,1026,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1026 Leisure and hospitality,,5201,74947,76979,81172,613100190,607,1.57,2.35
+9940,15000,15,0.0,5,1027,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1027 Other services,,4369,21641,21963,22201,228325846,801,1.37,1.57
+9941,15000,15,0.0,5,1029,2021,1,State,Hawaii,Hawaii -- Statewide,Private,1029 Unclassified,,3136,2231,2396,2476,46177538,1500,3.26,4.64
+10028,16000,16,0.0,0,10,2021,1,State,Idaho,Idaho -- Statewide,Total Covered,"10 Total, all industries",,74687,752339,761668,769768,8958384680,905,1.0,1.0
+10029,16000,16,0.0,1,10,2021,1,State,Idaho,Idaho -- Statewide,Federal Government,"10 Total, all industries",,632,12453,12465,12591,213691313,1315,0.8,0.95
+10030,16000,16,0.0,2,10,2021,1,State,Idaho,Idaho -- Statewide,State Government,"10 Total, all industries",,495,24946,25656,25744,298700236,903,1.01,1.04
+10031,16000,16,0.0,3,10,2021,1,State,Idaho,Idaho -- Statewide,Local Government,"10 Total, all industries",,1684,79089,80629,81141,796268882,763,1.08,1.09
+10032,16000,16,0.0,5,10,2021,1,State,Idaho,Idaho -- Statewide,Private,"10 Total, all industries",,71876,635851,642918,650292,7649724249,915,1.0,0.99
+10033,16000,16,0.0,5,101,2021,1,State,Idaho,Idaho -- Statewide,Private,101 Goods-producing,,15706,144127,145925,149147,1861489036,978,1.3,1.32
+10034,16000,16,0.0,5,1011,2021,1,State,Idaho,Idaho -- Statewide,Private,1011 Natural resources and mining,,2606,22930,23314,24713,255576502,831,2.76,2.62
+10035,16000,16,0.0,5,1012,2021,1,State,Idaho,Idaho -- Statewide,Private,1012 Construction,,10022,52275,53294,54782,609094997,877,1.4,1.41
+10036,16000,16,0.0,5,1013,2021,1,State,Idaho,Idaho -- Statewide,Private,1013 Manufacturing,,3078,68922,69317,69652,996817537,1107,1.04,1.14
+10037,16000,16,0.0,5,102,2021,1,State,Idaho,Idaho -- Statewide,Private,102 Service-providing,,56170,491724,496993,501145,5788235213,897,0.93,0.92
+10038,16000,16,0.0,5,1021,2021,1,State,Idaho,Idaho -- Statewide,Private,"1021 Trade, transportation, and utilities",,13485,149853,150825,151931,1681451877,857,1.03,1.23
+10039,16000,16,0.0,5,1022,2021,1,State,Idaho,Idaho -- Statewide,Private,1022 Information,,1574,7363,7423,7443,156021208,1620,0.49,0.37
+10040,16000,16,0.0,5,1023,2021,1,State,Idaho,Idaho -- Statewide,Private,1023 Financial activities,,7055,35133,35370,35461,683273988,1488,0.78,0.61
+10041,16000,16,0.0,5,1024,2021,1,State,Idaho,Idaho -- Statewide,Private,1024 Professional and business services,,14398,96488,98004,98823,1538662334,1211,0.87,0.87
+10042,16000,16,0.0,5,1025,2021,1,State,Idaho,Idaho -- Statewide,Private,1025 Education and health services,,9874,109824,110566,110891,1213201104,845,0.9,1.06
+10043,16000,16,0.0,5,1026,2021,1,State,Idaho,Idaho -- Statewide,Private,1026 Leisure and hospitality,,5438,74682,76305,77868,354740422,358,1.11,1.2
+10044,16000,16,0.0,5,1027,2021,1,State,Idaho,Idaho -- Statewide,Private,1027 Other services,,4346,18381,18500,18728,160884280,668,0.85,0.98
+10809,17000,17,0.0,0,10,2021,1,State,Illinois,Illinois -- Statewide,Total Covered,"10 Total, all industries",,384688,5455503,5498488,5562216,99148665704,1385,1.0,1.0
+10810,17000,17,0.0,1,10,2021,1,State,Illinois,Illinois -- Statewide,Federal Government,"10 Total, all industries",,2128,79823,79585,79417,1553555928,1501,0.7,0.62
+10811,17000,17,0.0,2,10,2021,1,State,Illinois,Illinois -- Statewide,State Government,"10 Total, all industries",,145,116948,117052,117734,2174956975,1427,0.64,0.69
+10812,17000,17,0.0,3,10,2021,1,State,Illinois,Illinois -- Statewide,Local Government,"10 Total, all industries",,6357,531606,542387,548943,7574311282,1077,1.01,0.94
+10813,17000,17,0.0,5,10,2021,1,State,Illinois,Illinois -- Statewide,Private,"10 Total, all industries",,376058,4727126,4759464,4816122,87845841519,1417,1.02,1.03
+10814,17000,17,0.0,5,101,2021,1,State,Illinois,Illinois -- Statewide,Private,101 Goods-producing,,53869,766514,761614,780430,15297666371,1529,0.94,0.98
+10815,17000,17,0.0,5,1011,2021,1,State,Illinois,Illinois -- Statewide,Private,1011 Natural resources and mining,,2836,21499,21352,22641,289545715,1020,0.35,0.27
+10816,17000,17,0.0,5,1012,2021,1,State,Illinois,Illinois -- Statewide,Private,1012 Construction,,32694,195046,189050,204268,3591675571,1409,0.72,0.75
+10817,17000,17,0.0,5,1013,2021,1,State,Illinois,Illinois -- Statewide,Private,1013 Manufacturing,,18339,549969,551212,553521,11416445085,1592,1.15,1.17
+10818,17000,17,0.0,5,102,2021,1,State,Illinois,Illinois -- Statewide,Private,102 Service-providing,,322189,3960612,3997850,4035692,72548175148,1396,1.04,1.04
+10819,17000,17,0.0,5,1021,2021,1,State,Illinois,Illinois -- Statewide,Private,"1021 Trade, transportation, and utilities",,78660,1160240,1143031,1145839,16784937773,1123,1.07,1.11
+10820,17000,17,0.0,5,1022,2021,1,State,Illinois,Illinois -- Statewide,Private,1022 Information,,7532,85745,86879,87484,2758402949,2447,0.8,0.59
+10821,17000,17,0.0,5,1023,2021,1,State,Illinois,Illinois -- Statewide,Private,1023 Financial activities,,33463,372146,372989,374040,16632163322,3429,1.15,1.34
+10822,17000,17,0.0,5,1024,2021,1,State,Illinois,Illinois -- Statewide,Private,1024 Professional and business services,,77795,888674,898195,899711,19965321622,1715,1.1,1.02
+10823,17000,17,0.0,5,1025,2021,1,State,Illinois,Illinois -- Statewide,Private,1025 Education and health services,,39999,880436,887918,893186,11626047574,1008,1.0,0.91
+10824,17000,17,0.0,5,1026,2021,1,State,Illinois,Illinois -- Statewide,Private,1026 Leisure and hospitality,,32891,390992,424579,448418,2569783848,469,0.88,0.79
+10825,17000,17,0.0,5,1027,2021,1,State,Illinois,Illinois -- Statewide,Private,1027 Other services,,36146,181653,183495,186163,2202858096,922,1.17,1.21
+10826,17000,17,0.0,5,1029,2021,1,State,Illinois,Illinois -- Statewide,Private,1029 Unclassified,,15703,726,764,851,8659964,854,0.11,0.07
+12566,18000,18,0.0,0,10,2021,1,State,Indiana,Indiana -- Statewide,Total Covered,"10 Total, all industries",,178411,2931703,2936073,2958907,39221336625,1025,1.0,1.0
+12567,18000,18,0.0,1,10,2021,1,State,Indiana,Indiana -- Statewide,Federal Government,"10 Total, all industries",,1260,39748,39477,39286,707383054,1377,0.65,0.72
+12568,18000,18,0.0,2,10,2021,1,State,Indiana,Indiana -- Statewide,State Government,"10 Total, all industries",,1411,82128,85226,85608,1337069428,1220,0.88,1.07
+12569,18000,18,0.0,3,10,2021,1,State,Indiana,Indiana -- Statewide,Local Government,"10 Total, all industries",,2959,255947,256983,258850,2759438996,825,0.89,0.87
+12570,18000,18,0.0,5,10,2021,1,State,Indiana,Indiana -- Statewide,Private,"10 Total, all industries",,172781,2553880,2554387,2575163,34417445147,1034,1.03,1.02
+12571,18000,18,0.0,5,101,2021,1,State,Indiana,Indiana -- Statewide,Private,101 Goods-producing,,27451,675175,673564,682768,11604825320,1318,1.55,1.88
+12572,18000,18,0.0,5,1011,2021,1,State,Indiana,Indiana -- Statewide,Private,1011 Natural resources and mining,,2320,19043,19025,19492,230131815,923,0.57,0.54
+12573,18000,18,0.0,5,1012,2021,1,State,Indiana,Indiana -- Statewide,Private,1012 Construction,,15850,137353,133780,139731,2059092272,1157,0.93,1.09
+12574,18000,18,0.0,5,1013,2021,1,State,Indiana,Indiana -- Statewide,Private,1013 Manufacturing,,9281,518779,520759,523545,9315601233,1375,2.04,2.42
+12575,18000,18,0.0,5,102,2021,1,State,Indiana,Indiana -- Statewide,Private,102 Service-providing,,145330,1878705,1880823,1892395,22812619827,931,0.91,0.83
+12576,18000,18,0.0,5,1021,2021,1,State,Indiana,Indiana -- Statewide,Private,"1021 Trade, transportation, and utilities",,41238,598717,593211,595279,6795149715,877,1.05,1.13
+12577,18000,18,0.0,5,1022,2021,1,State,Indiana,Indiana -- Statewide,Private,1022 Information,,2676,25134,25206,25154,447433376,1368,0.43,0.24
+12578,18000,18,0.0,5,1023,2021,1,State,Indiana,Indiana -- Statewide,Private,1023 Financial activities,,17851,133719,134040,133979,2843800899,1634,0.77,0.58
+12579,18000,18,0.0,5,1024,2021,1,State,Indiana,Indiana -- Statewide,Private,1024 Professional and business services,,32920,331579,332155,333904,5003163892,1157,0.77,0.65
+12580,18000,18,0.0,5,1025,2021,1,State,Indiana,Indiana -- Statewide,Private,1025 Education and health services,,17306,453076,455964,455965,5693933835,963,0.96,1.13
+12581,18000,18,0.0,5,1026,2021,1,State,Indiana,Indiana -- Statewide,Private,1026 Leisure and hospitality,,16006,255371,258758,265586,1305305966,386,0.98,1.01
+12582,18000,18,0.0,5,1027,2021,1,State,Indiana,Indiana -- Statewide,Private,1027 Other services,,13325,80936,81298,82322,721431895,681,0.98,1.0
+12583,18000,18,0.0,5,1029,2021,1,State,Indiana,Indiana -- Statewide,Private,1029 Unclassified,,4008,173,191,206,2400249,972,0.05,0.05
+14171,19000,19,0.0,0,10,2021,1,State,Iowa,Iowa -- Statewide,Total Covered,"10 Total, all industries",,105367,1464966,1462128,1475444,19149340017,1004,1.0,1.0
+14172,19000,19,0.0,1,10,2021,1,State,Iowa,Iowa -- Statewide,Federal Government,"10 Total, all industries",,1400,17940,17828,17820,290144952,1249,0.59,0.6
+14173,19000,19,0.0,2,10,2021,1,State,Iowa,Iowa -- Statewide,State Government,"10 Total, all industries",,1624,50528,50475,50473,880088142,1341,1.04,1.44
+14174,19000,19,0.0,3,10,2021,1,State,Iowa,Iowa -- Statewide,Local Government,"10 Total, all industries",,3318,165956,167478,168451,1907144595,877,1.17,1.22
+14175,19000,19,0.0,5,10,2021,1,State,Iowa,Iowa -- Statewide,Private,"10 Total, all industries",,99025,1230542,1226347,1238700,16071962328,1004,0.99,0.97
+14176,19000,19,0.0,5,101,2021,1,State,Iowa,Iowa -- Statewide,Private,101 Goods-producing,,16362,303889,299969,306082,4488409179,1138,1.39,1.49
+14177,19000,19,0.0,5,1011,2021,1,State,Iowa,Iowa -- Statewide,Private,1011 Natural resources and mining,,2908,20850,20786,21291,233031032,855,1.24,1.12
+14178,19000,19,0.0,5,1012,2021,1,State,Iowa,Iowa -- Statewide,Private,1012 Construction,,9366,66972,63517,68341,943029597,1095,0.91,1.02
+14179,19000,19,0.0,5,1013,2021,1,State,Iowa,Iowa -- Statewide,Private,1013 Manufacturing,,4088,216067,215666,216450,3312348550,1179,1.69,1.76
+14180,19000,19,0.0,5,102,2021,1,State,Iowa,Iowa -- Statewide,Private,102 Service-providing,,82663,926653,926378,932618,11583553149,960,0.9,0.86
+14181,19000,19,0.0,5,1021,2021,1,State,Iowa,Iowa -- Statewide,Private,"1021 Trade, transportation, and utilities",,23447,304254,300483,302048,3251087809,827,1.07,1.11
+14182,19000,19,0.0,5,1022,2021,1,State,Iowa,Iowa -- Statewide,Private,1022 Information,,1909,18643,18606,18611,338076674,1397,0.64,0.37
+14183,19000,19,0.0,5,1023,2021,1,State,Iowa,Iowa -- Statewide,Private,1023 Financial activities,,10556,108867,108660,108639,2654085963,1878,1.25,1.1
+14184,19000,19,0.0,5,1024,2021,1,State,Iowa,Iowa -- Statewide,Private,1024 Professional and business services,,17149,136392,136922,137214,2127487067,1196,0.63,0.56
+14185,19000,19,0.0,5,1025,2021,1,State,Iowa,Iowa -- Statewide,Private,1025 Education and health services,,13329,209411,210335,211169,2338064837,855,0.89,0.95
+14186,19000,19,0.0,5,1026,2021,1,State,Iowa,Iowa -- Statewide,Private,1026 Leisure and hospitality,,8675,112354,114663,117966,514466700,344,0.87,0.81
+14187,19000,19,0.0,5,1027,2021,1,State,Iowa,Iowa -- Statewide,Private,1027 Other services,,7598,36732,36709,36971,360284099,753,0.88,1.02
+15886,20000,20,0.0,0,10,2021,1,State,Kansas,Kansas -- Statewide,Total Covered,"10 Total, all industries",,89052,1325389,1320949,1336686,17002957445,985,1.0,1.0
+15887,20000,20,0.0,1,10,2021,1,State,Kansas,Kansas -- Statewide,Federal Government,"10 Total, all industries",,1217,25749,25625,25643,435526768,1305,0.94,1.02
+15888,20000,20,0.0,2,10,2021,1,State,Kansas,Kansas -- Statewide,State Government,"10 Total, all industries",,951,39592,39943,39865,504131633,974,0.9,0.93
+15889,20000,20,0.0,3,10,2021,1,State,Kansas,Kansas -- Statewide,Local Government,"10 Total, all industries",,2717,172567,174825,176044,1695376696,747,1.34,1.23
+15890,20000,20,0.0,5,10,2021,1,State,Kansas,Kansas -- Statewide,Private,"10 Total, all industries",,84167,1087481,1080556,1095134,14367922348,1016,0.97,0.98
+15891,20000,20,0.0,5,101,2021,1,State,Kansas,Kansas -- Statewide,Private,101 Goods-producing,,13205,236295,231392,240008,3574221619,1166,1.2,1.34
+15892,20000,20,0.0,5,1011,2021,1,State,Kansas,Kansas -- Statewide,Private,1011 Natural resources and mining,,2604,17744,17661,18161,208738322,899,1.17,1.13
+15893,20000,20,0.0,5,1012,2021,1,State,Kansas,Kansas -- Statewide,Private,1012 Construction,,7441,60601,56407,61891,831369355,1072,0.91,1.01
+15894,20000,20,0.0,5,1013,2021,1,State,Kansas,Kansas -- Statewide,Private,1013 Manufacturing,,3160,157950,157324,159956,2534113942,1231,1.38,1.52
+15895,20000,20,0.0,5,102,2021,1,State,Kansas,Kansas -- Statewide,Private,102 Service-providing,,70962,851186,849164,855126,10793700729,975,0.91,0.9
+15896,20000,20,0.0,5,1021,2021,1,State,Kansas,Kansas -- Statewide,Private,"1021 Trade, transportation, and utilities",,19506,260238,257064,257902,2929307391,872,1.01,1.13
+15897,20000,20,0.0,5,1022,2021,1,State,Kansas,Kansas -- Statewide,Private,1022 Information,,1775,16079,16270,16212,346048454,1644,0.62,0.43
+15898,20000,20,0.0,5,1023,2021,1,State,Kansas,Kansas -- Statewide,Private,1023 Financial activities,,8844,72817,72827,72757,1610179289,1701,0.93,0.75
+15899,20000,20,0.0,5,1024,2021,1,State,Kansas,Kansas -- Statewide,Private,1024 Professional and business services,,17571,166798,166140,168432,2856627722,1315,0.86,0.85
+15900,20000,20,0.0,5,1025,2021,1,State,Kansas,Kansas -- Statewide,Private,1025 Education and health services,,10384,194828,194792,194634,2239764102,885,0.91,1.03
+15901,20000,20,0.0,5,1026,2021,1,State,Kansas,Kansas -- Statewide,Private,1026 Leisure and hospitality,,6906,109047,110532,113403,515312567,357,0.93,0.92
+15902,20000,20,0.0,5,1027,2021,1,State,Kansas,Kansas -- Statewide,Private,1027 Other services,,5976,31379,31539,31786,296461204,722,0.83,0.95
+17693,21000,21,0.0,0,10,2021,1,State,Kentucky,Kentucky -- Statewide,Total Covered,"10 Total, all industries",,131261,1815410,1813681,1840046,22838142794,964,1.0,1.0
+17694,21000,21,0.0,1,10,2021,1,State,Kentucky,Kentucky -- Statewide,Federal Government,"10 Total, all industries",,1306,34744,34805,34870,591103924,1306,0.93,1.03
+17695,21000,21,0.0,2,10,2021,1,State,Kentucky,Kentucky -- Statewide,State Government,"10 Total, all industries",,2512,78961,80751,81043,1060278663,1016,1.34,1.45
+17696,21000,21,0.0,3,10,2021,1,State,Kentucky,Kentucky -- Statewide,Local Government,"10 Total, all industries",,1967,164002,165435,166965,1711015243,795,0.93,0.92
+17697,21000,21,0.0,5,10,2021,1,State,Kentucky,Kentucky -- Statewide,Private,"10 Total, all industries",,125476,1537703,1532690,1557168,19475744964,971,1.0,0.99
+17698,21000,21,0.0,5,101,2021,1,State,Kentucky,Kentucky -- Statewide,Private,101 Goods-producing,,17032,333942,332441,337386,4920792054,1131,1.23,1.37
+17699,21000,21,0.0,5,1011,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1011 Natural resources and mining,,1680,15615,15671,16226,205678223,999,0.76,0.83
+17700,21000,21,0.0,5,1012,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1012 Construction,,10092,75183,73619,76238,998800416,1024,0.82,0.9
+17701,21000,21,0.0,5,1013,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1013 Manufacturing,,5260,243144,243151,244922,3716313415,1173,1.53,1.66
+17702,21000,21,0.0,5,102,2021,1,State,Kentucky,Kentucky -- Statewide,Private,102 Service-providing,,108444,1203761,1200249,1219782,14554952910,927,0.95,0.9
+17703,21000,21,0.0,5,1021,2021,1,State,Kentucky,Kentucky -- Statewide,Private,"1021 Trade, transportation, and utilities",,28590,406024,401913,404796,4720357468,898,1.15,1.35
+17704,21000,21,0.0,5,1022,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1022 Information,,2375,19767,20192,20505,339332724,1295,0.57,0.31
+17705,21000,21,0.0,5,1023,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1023 Financial activities,,12135,93667,93542,93965,2003252794,1644,0.87,0.7
+17706,21000,21,0.0,5,1024,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1024 Professional and business services,,23774,214091,212578,214944,2944927299,1059,0.79,0.65
+17707,21000,21,0.0,5,1025,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1025 Education and health services,,21332,267496,268036,272757,3352412597,957,0.92,1.15
+17708,21000,21,0.0,5,1026,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1026 Leisure and hospitality,,10469,161947,163040,170753,812938219,378,1.02,1.08
+17709,21000,21,0.0,5,1027,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1027 Other services,,9330,40496,40672,41780,376685821,707,0.8,0.9
+17710,21000,21,0.0,5,1029,2021,1,State,Kentucky,Kentucky -- Statewide,Private,1029 Unclassified,,439,273,276,282,5045988,1401,0.11,0.18
+19823,22000,22,0.0,0,10,2021,1,State,Louisiana,Louisiana -- Statewide,Total Covered,"10 Total, all industries",,141433,1773789,1779295,1793653,22589957726,975,1.0,1.0
+19824,22000,22,0.0,1,10,2021,1,State,Louisiana,Louisiana -- Statewide,Federal Government,"10 Total, all industries",,1063,31444,31533,31449,571121418,1396,0.86,1.0
+19825,22000,22,0.0,2,10,2021,1,State,Louisiana,Louisiana -- Statewide,State Government,"10 Total, all industries",,1333,73737,74703,74856,1040816501,1076,1.27,1.44
+19826,22000,22,0.0,3,10,2021,1,State,Louisiana,Louisiana -- Statewide,Local Government,"10 Total, all industries",,3455,192554,192762,191808,1992879761,797,1.09,1.09
+19827,22000,22,0.0,5,10,2021,1,State,Louisiana,Louisiana -- Statewide,Private,"10 Total, all industries",,135582,1476054,1480297,1495540,18985140046,984,0.98,0.98
+19828,22000,22,0.0,5,101,2021,1,State,Louisiana,Louisiana -- Statewide,Private,101 Goods-producing,,19401,281547,283350,288609,5166560988,1397,1.08,1.45
+19829,22000,22,0.0,5,1011,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1011 Natural resources and mining,,3116,34129,34125,35341,736936100,1642,1.69,2.99
+19830,22000,22,0.0,5,1012,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1012 Construction,,11699,118887,121486,125128,1890160511,1193,1.38,1.73
+19831,22000,22,0.0,5,1013,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1013 Manufacturing,,4586,128531,127739,128140,2539464377,1524,0.82,1.15
+19832,22000,22,0.0,5,102,2021,1,State,Louisiana,Louisiana -- Statewide,Private,102 Service-providing,,116181,1194507,1196947,1206931,13818579058,886,0.96,0.87
+19833,22000,22,0.0,5,1021,2021,1,State,Louisiana,Louisiana -- Statewide,Private,"1021 Trade, transportation, and utilities",,31582,360893,359954,361561,4110703228,876,1.05,1.19
+19834,22000,22,0.0,5,1022,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1022 Information,,2088,18631,20069,19262,322493846,1284,0.55,0.3
+19835,22000,22,0.0,5,1023,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1023 Financial activities,,14514,80056,80726,80652,1451231875,1387,0.77,0.51
+19836,22000,22,0.0,5,1024,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1024 Professional and business services,,27280,205181,206261,209431,3048073871,1133,0.79,0.68
+19837,22000,22,0.0,5,1025,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1025 Education and health services,,17304,299930,299766,300439,3442349730,883,1.04,1.19
+19838,22000,22,0.0,5,1026,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1026 Leisure and hospitality,,13627,187747,188099,192703,1017074672,413,1.18,1.36
+19839,22000,22,0.0,5,1027,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1027 Other services,,9598,42027,42029,42840,426312378,775,0.84,1.03
+19840,22000,22,0.0,5,1029,2021,1,State,Louisiana,Louisiana -- Statewide,Private,1029 Unclassified,,188,42,43,43,339458,612,0.02,0.01
+20978,23000,23,0.0,0,10,2021,1,State,Maine,Maine -- Statewide,Total Covered,"10 Total, all industries",,56173,579714,582487,586561,7571320809,999,1.0,1.0
+20979,23000,23,0.0,1,10,2021,1,State,Maine,Maine -- Statewide,Federal Government,"10 Total, all industries",,677,16436,16373,16410,308791006,1448,1.37,1.62
+20980,23000,23,0.0,2,10,2021,1,State,Maine,Maine -- Statewide,State Government,"10 Total, all industries",,236,21385,21544,21540,284856970,1020,1.11,1.18
+20981,23000,23,0.0,3,10,2021,1,State,Maine,Maine -- Statewide,Local Government,"10 Total, all industries",,2141,56668,57019,57847,598721592,805,1.01,0.97
+20982,23000,23,0.0,5,10,2021,1,State,Maine,Maine -- Statewide,Private,"10 Total, all industries",,53119,485225,487551,490764,6378951241,1006,0.99,0.98
+20983,23000,23,0.0,5,101,2021,1,State,Maine,Maine -- Statewide,Private,101 Goods-producing,,9354,88417,88449,89415,1291315001,1119,1.02,1.08
+20984,23000,23,0.0,5,1011,2021,1,State,Maine,Maine -- Statewide,Private,1011 Natural resources and mining,,1659,7179,7245,7421,72129498,762,1.09,0.87
+20985,23000,23,0.0,5,1012,2021,1,State,Maine,Maine -- Statewide,Private,1012 Construction,,5828,29369,29068,29360,380416036,1000,0.99,1.04
+20986,23000,23,0.0,5,1013,2021,1,State,Maine,Maine -- Statewide,Private,1013 Manufacturing,,1867,51869,52136,52634,838769467,1236,1.03,1.13
+20987,23000,23,0.0,5,102,2021,1,State,Maine,Maine -- Statewide,Private,102 Service-providing,,43765,396808,399102,401349,5087636240,981,0.98,0.95
+20988,23000,23,0.0,5,1021,2021,1,State,Maine,Maine -- Statewide,Private,"1021 Trade, transportation, and utilities",,10492,114010,113237,112918,1216640264,825,1.0,1.05
+20989,23000,23,0.0,5,1022,2021,1,State,Maine,Maine -- Statewide,Private,1022 Information,,975,6401,6405,6404,113193959,1360,0.56,0.31
+20990,23000,23,0.0,5,1023,2021,1,State,Maine,Maine -- Statewide,Private,1023 Financial activities,,4028,29712,29788,29824,683919455,1767,0.87,0.72
+20991,23000,23,0.0,5,1024,2021,1,State,Maine,Maine -- Statewide,Private,1024 Professional and business services,,12028,69755,70236,69884,1176866177,1294,0.81,0.79
+20992,23000,23,0.0,5,1025,2021,1,State,Maine,Maine -- Statewide,Private,1025 Education and health services,,5657,115584,116448,117082,1449154305,958,1.24,1.49
+20993,23000,23,0.0,5,1026,2021,1,State,Maine,Maine -- Statewide,Private,1026 Leisure and hospitality,,5137,44328,45818,47742,275983780,462,0.89,1.1
+20994,23000,23,0.0,5,1027,2021,1,State,Maine,Maine -- Statewide,Private,1027 Other services,,3894,15851,15804,15896,149533042,726,0.95,1.08
+20995,23000,23,0.0,5,1029,2021,1,State,Maine,Maine -- Statewide,Private,1029 Unclassified,,1554,1167,1366,1599,22345258,1248,2.03,2.35
+21291,24000,24,0.0,0,10,2021,1,State,Maryland,Maryland -- Statewide,Total Covered,"10 Total, all industries",,175155,2500951,2505344,2531913,45088652135,1380,1.0,1.0
+21292,24000,24,0.0,1,10,2021,1,State,Maryland,Maryland -- Statewide,Federal Government,"10 Total, all industries",,1012,151808,152056,152216,4038025717,2043,2.95,3.55
+21293,24000,24,0.0,2,10,2021,1,State,Maryland,Maryland -- Statewide,State Government,"10 Total, all industries",,446,96675,97819,98458,1664520748,1311,1.18,1.15
+21294,24000,24,0.0,3,10,2021,1,State,Maryland,Maryland -- Statewide,Local Government,"10 Total, all industries",,2088,231514,233984,236312,3596034647,1182,0.95,0.98
+21295,24000,24,0.0,5,10,2021,1,State,Maryland,Maryland -- Statewide,Private,"10 Total, all industries",,171609,2020954,2021485,2044927,35790071023,1357,0.95,0.92
+21296,24000,24,0.0,5,101,2021,1,State,Maryland,Maryland -- Statewide,Private,101 Goods-producing,,21043,271942,269693,274174,5352149182,1514,0.73,0.75
+21297,24000,24,0.0,5,1011,2021,1,State,Maryland,Maryland -- Statewide,Private,1011 Natural resources and mining,,732,6484,6649,7287,74816741,846,0.25,0.15
+21298,24000,24,0.0,5,1012,2021,1,State,Maryland,Maryland -- Statewide,Private,1012 Construction,,16094,156850,155735,157926,2626853430,1288,1.23,1.2
+21299,24000,24,0.0,5,1013,2021,1,State,Maryland,Maryland -- Statewide,Private,1013 Manufacturing,,4217,108608,107309,108961,2650479011,1883,0.5,0.6
+21300,24000,24,0.0,5,102,2021,1,State,Maryland,Maryland -- Statewide,Private,102 Service-providing,,150566,1749012,1751792,1770753,30437921841,1332,1.0,0.96
+21301,24000,24,0.0,5,1021,2021,1,State,Maryland,Maryland -- Statewide,Private,"1021 Trade, transportation, and utilities",,31031,456386,450008,450171,5756470103,979,0.93,0.84
+21302,24000,24,0.0,5,1022,2021,1,State,Maryland,Maryland -- Statewide,Private,1022 Information,,3102,32095,32193,32281,2084882056,4982,0.65,0.97
+21303,24000,24,0.0,5,1023,2021,1,State,Maryland,Maryland -- Statewide,Private,1023 Financial activities,,15909,128601,128417,128699,4190431434,2507,0.87,0.74
+21304,24000,24,0.0,5,1024,2021,1,State,Maryland,Maryland -- Statewide,Private,1024 Professional and business services,,44529,443201,444664,450038,10097679165,1742,1.21,1.13
+21305,24000,24,0.0,5,1025,2021,1,State,Maryland,Maryland -- Statewide,Private,1025 Education and health services,,21565,419132,421871,424880,6116689975,1115,1.04,1.06
+21306,24000,24,0.0,5,1026,2021,1,State,Maryland,Maryland -- Statewide,Private,1026 Leisure and hospitality,,14543,190385,195353,204240,1262756832,494,0.88,0.85
+21307,24000,24,0.0,5,1027,2021,1,State,Maryland,Maryland -- Statewide,Private,1027 Other services,,19265,78684,78706,79827,918571179,894,1.11,1.11
+21308,24000,24,0.0,5,1029,2021,1,State,Maryland,Maryland -- Statewide,Private,1029 Unclassified,,622,528,580,617,10441097,1397,0.18,0.18
+21746,25000,25,0.0,0,10,2021,1,State,Massachusetts,Massachusetts -- Statewide,Total Covered,"10 Total, all industries",,271261,3292477,3314376,3341341,74404051559,1726,1.0,1.0
+21747,25000,25,0.0,1,10,2021,1,State,Massachusetts,Massachusetts -- Statewide,Federal Government,"10 Total, all industries",,971,45586,45771,45715,934785566,1574,0.67,0.5
+21748,25000,25,0.0,2,10,2021,1,State,Massachusetts,Massachusetts -- Statewide,State Government,"10 Total, all industries",,2188,102126,107949,108224,1940413593,1407,0.98,0.82
+21749,25000,25,0.0,3,10,2021,1,State,Massachusetts,Massachusetts -- Statewide,Local Government,"10 Total, all industries",,4304,261137,262030,264502,4220291011,1236,0.81,0.7
+21750,25000,25,0.0,5,10,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,"10 Total, all industries",,263798,2883628,2898626,2922900,67308561389,1784,1.03,1.05
+21751,25000,25,0.0,5,101,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,101 Goods-producing,,29152,390017,388842,393706,9449643213,1860,0.79,0.81
+21752,25000,25,0.0,5,1011,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1011 Natural resources and mining,,1000,10150,10255,11034,256018039,1879,0.28,0.32
+21753,25000,25,0.0,5,1012,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1012 Construction,,21595,150887,149437,152823,3105600149,1582,0.9,0.86
+21754,25000,25,0.0,5,1013,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1013 Manufacturing,,6557,228980,229150,229849,6088025025,2042,0.79,0.83
+21755,25000,25,0.0,5,102,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,102 Service-providing,,234646,2493611,2509784,2529194,57858918176,1773,1.08,1.1
+21756,25000,25,0.0,5,1021,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,"1021 Trade, transportation, and utilities",,40864,542563,533747,535701,8715708287,1248,0.84,0.77
+21757,25000,25,0.0,5,1022,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1022 Information,,6653,90215,91124,90613,3629200476,3080,1.39,1.03
+21758,25000,25,0.0,5,1023,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1023 Financial activities,,18811,211651,211689,211734,11342626552,4122,1.08,1.21
+21759,25000,25,0.0,5,1024,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1024 Professional and business services,,50631,577605,584173,585009,19900111224,2629,1.19,1.35
+21760,25000,25,0.0,5,1025,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1025 Education and health services,,74552,746369,756126,761340,11455059922,1168,1.42,1.2
+21761,25000,25,0.0,5,1026,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1026 Leisure and hospitality,,20120,226559,234014,244428,1724098013,564,0.8,0.7
+21762,25000,25,0.0,5,1027,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1027 Other services,,23010,98646,98908,100366,1092071133,846,1.05,0.8
+21763,25000,25,0.0,5,1029,2021,1,State,Massachusetts,Massachusetts -- Statewide,Private,1029 Unclassified,,5,3,3,3,42569,1092,0.0,0.0
+22019,26000,26,0.0,0,10,2021,1,State,Michigan,Michigan -- Statewide,Total Covered,"10 Total, all industries",,267964,3932089,4002335,4030537,59854311076,1154,1.0,1.0
+22020,26000,26,0.0,1,10,2021,1,State,Michigan,Michigan -- Statewide,Federal Government,"10 Total, all industries",,1568,52240,52427,52308,1027372278,1510,0.64,0.68
+22021,26000,26,0.0,2,10,2021,1,State,Michigan,Michigan -- Statewide,State Government,"10 Total, all industries",,1152,143497,148281,148645,2510003994,1315,1.12,1.31
+22022,26000,26,0.0,3,10,2021,1,State,Michigan,Michigan -- Statewide,Local Government,"10 Total, all industries",,4964,331309,335727,337998,4153206652,954,0.86,0.85
+22023,26000,26,0.0,5,10,2021,1,State,Michigan,Michigan -- Statewide,Private,"10 Total, all industries",,260280,3405043,3465900,3491586,52163728152,1162,1.02,1.01
+22024,26000,26,0.0,5,101,2021,1,State,Michigan,Michigan -- Statewide,Private,101 Goods-producing,,42817,764862,763490,775338,13121534900,1314,1.29,1.39
+22025,26000,26,0.0,5,1011,2021,1,State,Michigan,Michigan -- Statewide,Private,1011 Natural resources and mining,,3602,29470,30143,31964,344865552,869,0.68,0.53
+22026,26000,26,0.0,5,1012,2021,1,State,Michigan,Michigan -- Statewide,Private,1012 Construction,,21652,155542,151433,158168,2509410200,1245,0.77,0.87
+22027,26000,26,0.0,5,1013,2021,1,State,Michigan,Michigan -- Statewide,Private,1013 Manufacturing,,17563,579850,581914,585206,10267259148,1356,1.67,1.75
+22028,26000,26,0.0,5,102,2021,1,State,Michigan,Michigan -- Statewide,Private,102 Service-providing,,217463,2640181,2702410,2716248,39042193252,1118,0.96,0.93
+22029,26000,26,0.0,5,1021,2021,1,State,Michigan,Michigan -- Statewide,Private,"1021 Trade, transportation, and utilities",,54250,763290,757724,758039,9824345118,995,0.98,1.07
+22030,26000,26,0.0,5,1022,2021,1,State,Michigan,Michigan -- Statewide,Private,1022 Information,,7754,49115,49745,50037,1182108639,1832,0.63,0.42
+22031,26000,26,0.0,5,1023,2021,1,State,Michigan,Michigan -- Statewide,Private,1023 Financial activities,,21165,211886,212681,213180,4779349910,1729,0.9,0.64
+22032,26000,26,0.0,5,1024,2021,1,State,Michigan,Michigan -- Statewide,Private,1024 Professional and business services,,47865,606032,612487,611785,12437353557,1568,1.03,1.05
+22033,26000,26,0.0,5,1025,2021,1,State,Michigan,Michigan -- Statewide,Private,1025 Education and health services,,32988,628196,633403,633710,8013565388,976,0.98,1.04
+22034,26000,26,0.0,5,1026,2021,1,State,Michigan,Michigan -- Statewide,Private,1026 Leisure and hospitality,,22658,256724,309166,321124,1571110642,409,0.87,0.8
+22035,26000,26,0.0,5,1027,2021,1,State,Michigan,Michigan -- Statewide,Private,1027 Other services,,25727,114334,116396,117501,1096197088,726,1.02,1.0
+22036,26000,26,0.0,5,1029,2021,1,State,Michigan,Michigan -- Statewide,Private,1029 Unclassified,,5056,10604,10808,10872,138162910,988,2.01,1.84
+23545,27000,27,0.0,0,10,2021,1,State,Minnesota,Minnesota -- Statewide,Total Covered,"10 Total, all industries",,188995,2672333,2682176,2697632,44956493378,1288,1.0,1.0
+23546,27000,27,0.0,1,10,2021,1,State,Minnesota,Minnesota -- Statewide,Federal Government,"10 Total, all industries",,1407,32594,32422,32517,597190019,1413,0.59,0.53
+23547,27000,27,0.0,2,10,2021,1,State,Minnesota,Minnesota -- Statewide,State Government,"10 Total, all industries",,1445,79276,79338,79418,1282135770,1243,0.89,0.89
+23548,27000,27,0.0,3,10,2021,1,State,Minnesota,Minnesota -- Statewide,Local Government,"10 Total, all industries",,4013,251668,256007,257427,3459869941,1044,0.97,0.95
+23549,27000,27,0.0,5,10,2021,1,State,Minnesota,Minnesota -- Statewide,Private,"10 Total, all industries",,182130,2308795,2314409,2328270,39617297648,1315,1.02,1.02
+23550,27000,27,0.0,5,101,2021,1,State,Minnesota,Minnesota -- Statewide,Private,101 Goods-producing,,29232,443050,438229,445043,7989264525,1390,1.11,1.13
+23551,27000,27,0.0,5,1011,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1011 Natural resources and mining,,3253,24962,25061,25951,346738504,1053,0.83,0.71
+23552,27000,27,0.0,5,1012,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1012 Construction,,17475,111180,106191,111349,2101254119,1475,0.81,0.97
+23553,27000,27,0.0,5,1013,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1013 Manufacturing,,8504,306908,306977,307743,5541271902,1387,1.31,1.26
+23554,27000,27,0.0,5,102,2021,1,State,Minnesota,Minnesota -- Statewide,Private,102 Service-providing,,152898,1865745,1876180,1883227,31628033123,1298,1.0,1.0
+23555,27000,27,0.0,5,1021,2021,1,State,Minnesota,Minnesota -- Statewide,Private,"1021 Trade, transportation, and utilities",,37944,506326,499382,499697,6848657992,1050,0.97,1.0
+23556,27000,27,0.0,5,1022,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1022 Information,,4678,41575,41806,41740,1049243710,1935,0.79,0.49
+23557,27000,27,0.0,5,1023,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1023 Financial activities,,16663,178319,178314,177978,5997443935,2589,1.12,1.06
+23558,27000,27,0.0,5,1024,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1024 Professional and business services,,35430,362262,363058,363304,8976164860,1903,0.91,1.01
+23559,27000,27,0.0,5,1025,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1025 Education and health services,,24202,518422,521102,520355,6911896707,1023,1.2,1.2
+23560,27000,27,0.0,5,1026,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1026 Leisure and hospitality,,15621,181627,193811,199927,1104087839,443,0.81,0.74
+23561,27000,27,0.0,5,1027,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1027 Other services,,18359,77214,78706,80225,740527693,724,1.04,0.9
+23562,27000,27,0.0,5,1029,2021,1,State,Minnesota,Minnesota -- Statewide,Private,1029 Unclassified,,1,0,1,1,10387,1199,0.0,0.0
+25059,28000,28,0.0,0,10,2021,1,State,Mississippi,Mississippi -- Statewide,Total Covered,"10 Total, all industries",,75328,1095970,1094870,1102239,11560286675,810,1.0,1.0
+25060,28000,28,0.0,1,10,2021,1,State,Mississippi,Mississippi -- Statewide,Federal Government,"10 Total, all industries",,1051,25770,25756,25738,447966879,1338,1.15,1.54
+25061,28000,28,0.0,2,10,2021,1,State,Mississippi,Mississippi -- Statewide,State Government,"10 Total, all industries",,1117,52806,53127,53338,681605251,988,1.47,1.84
+25062,28000,28,0.0,3,10,2021,1,State,Mississippi,Mississippi -- Statewide,Local Government,"10 Total, all industries",,1783,146791,147059,147391,1414925015,740,1.37,1.51
+25063,28000,28,0.0,5,10,2021,1,State,Mississippi,Mississippi -- Statewide,Private,"10 Total, all industries",,71377,870603,868928,875772,9015789530,796,0.94,0.91
+25064,28000,28,0.0,5,101,2021,1,State,Mississippi,Mississippi -- Statewide,Private,101 Goods-producing,,10250,198582,198615,199034,2489711282,964,1.21,1.37
+25065,28000,28,0.0,5,1011,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1011 Natural resources and mining,,2037,13300,13309,13925,157944642,899,1.09,1.25
+25066,28000,28,0.0,5,1012,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1012 Construction,,5841,42513,42400,43538,538259746,967,0.78,0.96
+25067,28000,28,0.0,5,1013,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1013 Manufacturing,,2372,142769,142906,141571,1793506894,969,1.48,1.58
+25068,28000,28,0.0,5,102,2021,1,State,Mississippi,Mississippi -- Statewide,Private,102 Service-providing,,61127,672021,670313,676738,6526078248,746,0.88,0.8
+25069,28000,28,0.0,5,1021,2021,1,State,Mississippi,Mississippi -- Statewide,Private,"1021 Trade, transportation, and utilities",,19696,230813,229238,231074,2276447480,760,1.09,1.29
+25070,28000,28,0.0,5,1022,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1022 Information,,998,9390,9456,9325,128921420,1056,0.43,0.23
+25071,28000,28,0.0,5,1023,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1023 Financial activities,,8032,41744,41665,41847,676084054,1246,0.65,0.47
+25072,28000,28,0.0,5,1024,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1024 Professional and business services,,13086,112484,112283,113157,1223480000,836,0.7,0.54
+25073,28000,28,0.0,5,1025,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1025 Education and health services,,7845,138611,138085,138571,1488155161,827,0.78,1.0
+25074,28000,28,0.0,5,1026,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1026 Leisure and hospitality,,6725,118775,119390,122242,547232472,350,1.21,1.43
+25075,28000,28,0.0,5,1027,2021,1,State,Mississippi,Mississippi -- Statewide,Private,1027 Other services,,4745,20204,20196,20522,185757661,704,0.65,0.88
+26479,29000,29,0.0,0,10,2021,1,State,Missouri,Missouri -- Statewide,Total Covered,"10 Total, all industries",,219630,2677404,2669801,2707075,36792428451,1054,1.0,1.0
+26480,29000,29,0.0,1,10,2021,1,State,Missouri,Missouri -- Statewide,Federal Government,"10 Total, all industries",,1741,56801,57075,57211,991778300,1338,1.04,1.07
+26481,29000,29,0.0,2,10,2021,1,State,Missouri,Missouri -- Statewide,State Government,"10 Total, all industries",,1207,80672,81544,81688,988556943,935,0.92,0.84
+26482,29000,29,0.0,3,10,2021,1,State,Missouri,Missouri -- Statewide,Local Government,"10 Total, all industries",,6578,266580,268947,269518,2866145029,822,1.02,0.96
+26483,29000,29,0.0,5,10,2021,1,State,Missouri,Missouri -- Statewide,Private,"10 Total, all industries",,210104,2273351,2262235,2298658,31945948179,1079,1.0,1.01
+26484,29000,29,0.0,5,101,2021,1,State,Missouri,Missouri -- Statewide,Private,101 Goods-producing,,24868,409103,399523,413028,6291791303,1189,1.02,1.09
+26485,29000,29,0.0,5,1011,2021,1,State,Missouri,Missouri -- Statewide,Private,1011 Natural resources and mining,,2139,16150,15842,16866,176354372,833,0.54,0.44
+26486,29000,29,0.0,5,1012,2021,1,State,Missouri,Missouri -- Statewide,Private,1012 Construction,,15830,122663,114448,126148,1903715319,1209,0.92,1.07
+26487,29000,29,0.0,5,1013,2021,1,State,Missouri,Missouri -- Statewide,Private,1013 Manufacturing,,6899,270290,269233,270014,4211721612,1201,1.15,1.17
+26488,29000,29,0.0,5,102,2021,1,State,Missouri,Missouri -- Statewide,Private,102 Service-providing,,185236,1864248,1862712,1885630,25654156876,1055,1.0,0.99
+26489,29000,29,0.0,5,1021,2021,1,State,Missouri,Missouri -- Statewide,Private,"1021 Trade, transportation, and utilities",,39569,530904,524719,531157,6213162501,904,1.02,1.11
+26490,29000,29,0.0,5,1022,2021,1,State,Missouri,Missouri -- Statewide,Private,1022 Information,,3793,44917,44959,45020,1173847404,2008,0.85,0.67
+26491,29000,29,0.0,5,1023,2021,1,State,Missouri,Missouri -- Statewide,Private,1023 Financial activities,,19115,166828,166917,167003,4005706544,1846,1.05,0.87
+26492,29000,29,0.0,5,1024,2021,1,State,Missouri,Missouri -- Statewide,Private,1024 Professional and business services,,36698,365302,365046,368445,6862853685,1441,0.92,0.94
+26493,29000,29,0.0,5,1025,2021,1,State,Missouri,Missouri -- Statewide,Private,1025 Education and health services,,57388,446109,450582,449771,5433547606,931,1.03,1.15
+26494,29000,29,0.0,5,1026,2021,1,State,Missouri,Missouri -- Statewide,Private,1026 Leisure and hospitality,,15354,241575,242237,254832,1326354218,414,1.03,1.09
+26495,29000,29,0.0,5,1027,2021,1,State,Missouri,Missouri -- Statewide,Private,1027 Other services,,13319,68613,68252,69402,638684918,715,0.9,0.95
+28466,30000,30,0.0,0,10,2021,1,State,Montana,Montana -- Statewide,Total Covered,"10 Total, all industries",,53127,457306,459953,465681,5484924744,915,1.0,1.0
+28467,30000,30,0.0,1,10,2021,1,State,Montana,Montana -- Statewide,Federal Government,"10 Total, all industries",,848,12531,12471,12748,221016278,1351,1.34,1.6
+28468,30000,30,0.0,2,10,2021,1,State,Montana,Montana -- Statewide,State Government,"10 Total, all industries",,371,21869,22077,22286,299521095,1044,1.45,1.71
+28469,30000,30,0.0,3,10,2021,1,State,Montana,Montana -- Statewide,Local Government,"10 Total, all industries",,1028,48088,48989,49612,527577157,830,1.09,1.18
+28470,30000,30,0.0,5,10,2021,1,State,Montana,Montana -- Statewide,Private,"10 Total, all industries",,50880,374818,376416,381035,4436810214,904,0.96,0.94
+28471,30000,30,0.0,5,101,2021,1,State,Montana,Montana -- Statewide,Private,101 Goods-producing,,10324,60911,59780,62440,857191653,1080,0.9,0.99
+28472,30000,30,0.0,5,1011,2021,1,State,Montana,Montana -- Statewide,Private,1011 Natural resources and mining,,1828,11505,11508,12022,197960996,1304,2.22,3.31
+28473,30000,30,0.0,5,1012,2021,1,State,Montana,Montana -- Statewide,Private,1012 Construction,,6817,28814,27599,29674,378591922,1015,1.26,1.43
+28474,30000,30,0.0,5,1013,2021,1,State,Montana,Montana -- Statewide,Private,1013 Manufacturing,,1679,20592,20673,20744,280638735,1044,0.51,0.52
+28475,30000,30,0.0,5,102,2021,1,State,Montana,Montana -- Statewide,Private,102 Service-providing,,40556,313907,316636,318595,3579618561,870,0.98,0.93
+28476,30000,30,0.0,5,1021,2021,1,State,Montana,Montana -- Statewide,Private,"1021 Trade, transportation, and utilities",,9277,91449,91622,91695,995895203,836,1.03,1.19
+28477,30000,30,0.0,5,1022,2021,1,State,Montana,Montana -- Statewide,Private,1022 Information,,895,5504,5567,5502,111594003,1554,0.6,0.43
+28478,30000,30,0.0,5,1023,2021,1,State,Montana,Montana -- Statewide,Private,1023 Financial activities,,4720,22064,22123,22258,417324293,1449,0.81,0.61
+28479,30000,30,0.0,5,1024,2021,1,State,Montana,Montana -- Statewide,Private,1024 Professional and business services,,10713,43764,44468,44764,652736129,1133,0.65,0.6
+28480,30000,30,0.0,5,1025,2021,1,State,Montana,Montana -- Statewide,Private,1025 Education and health services,,5145,74807,75340,75309,930852473,953,1.01,1.32
+28481,30000,30,0.0,5,1026,2021,1,State,Montana,Montana -- Statewide,Private,1026 Leisure and hospitality,,5100,58768,59747,61072,311343201,400,1.44,1.72
+28482,30000,30,0.0,5,1027,2021,1,State,Montana,Montana -- Statewide,Private,1027 Other services,,4122,16921,17072,17253,143265324,645,1.3,1.42
+28483,30000,30,0.0,5,1029,2021,1,State,Montana,Montana -- Statewide,Private,1029 Unclassified,,584,630,697,742,16607935,1852,1.19,2.41
+29453,31000,31,0.0,0,10,2021,1,State,Nebraska,Nebraska -- Statewide,Total Covered,"10 Total, all industries",,73001,943507,941847,950931,12141877753,988,1.0,1.0
+29454,31000,31,0.0,1,10,2021,1,State,Nebraska,Nebraska -- Statewide,Federal Government,"10 Total, all industries",,970,17004,16857,16868,293673068,1336,0.87,0.96
+29455,31000,31,0.0,2,10,2021,1,State,Nebraska,Nebraska -- Statewide,State Government,"10 Total, all industries",,834,33778,33980,34110,452302842,1025,1.09,1.17
+29456,31000,31,0.0,3,10,2021,1,State,Nebraska,Nebraska -- Statewide,Local Government,"10 Total, all industries",,1919,107402,108278,108637,1246226677,887,1.17,1.26
+29457,31000,31,0.0,5,10,2021,1,State,Nebraska,Nebraska -- Statewide,Private,"10 Total, all industries",,69278,785323,782732,791316,10149675166,993,0.98,0.97
+29458,31000,31,0.0,5,101,2021,1,State,Nebraska,Nebraska -- Statewide,Private,101 Goods-producing,,11760,164801,163056,166861,2220209034,1036,1.18,1.16
+29459,31000,31,0.0,5,1011,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1011 Natural resources and mining,,2529,14761,14645,15019,162905246,846,1.36,1.23
+29460,31000,31,0.0,5,1012,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1012 Construction,,7261,51299,49432,52569,677930408,1021,1.09,1.15
+29461,31000,31,0.0,5,1013,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1013 Manufacturing,,1970,98741,98979,99273,1379373380,1072,1.2,1.16
+29462,31000,31,0.0,5,102,2021,1,State,Nebraska,Nebraska -- Statewide,Private,102 Service-providing,,57518,620522,619676,624455,7929466132,981,0.94,0.93
+29463,31000,31,0.0,5,1021,2021,1,State,Nebraska,Nebraska -- Statewide,Private,"1021 Trade, transportation, and utilities",,15032,184738,182219,183303,2001150333,839,1.0,1.08
+29464,31000,31,0.0,5,1022,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1022 Information,,1209,17226,17292,17295,357967717,1594,0.93,0.62
+29465,31000,31,0.0,5,1023,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1023 Financial activities,,7152,64561,64616,64601,1470394014,1751,1.16,0.96
+29466,31000,31,0.0,5,1024,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1024 Professional and business services,,12766,115107,114951,115633,1862899369,1244,0.83,0.78
+29467,31000,31,0.0,5,1025,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1025 Education and health services,,11037,137542,137963,138232,1675642654,935,0.9,1.08
+29468,31000,31,0.0,5,1026,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1026 Leisure and hospitality,,5597,77200,78401,80871,348016482,340,0.93,0.87
+29469,31000,31,0.0,5,1027,2021,1,State,Nebraska,Nebraska -- Statewide,Private,1027 Other services,,4725,24148,24234,24520,213395563,675,0.9,0.96
+31030,32000,32,0.0,0,10,2021,1,State,Nevada,Nevada -- Statewide,Total Covered,"10 Total, all industries",,91358,1261136,1276218,1290857,17862373659,1077,1.0,1.0
+31031,32000,32,0.0,1,10,2021,1,State,Nevada,Nevada -- Statewide,Federal Government,"10 Total, all industries",,368,20080,20345,20338,368488245,1399,0.77,0.82
+31032,32000,32,0.0,2,10,2021,1,State,Nevada,Nevada -- Statewide,State Government,"10 Total, all industries",,626,33564,33536,33738,490085400,1122,0.79,0.86
+31033,32000,32,0.0,3,10,2021,1,State,Nevada,Nevada -- Statewide,Local Government,"10 Total, all industries",,402,97257,97924,98684,1418312241,1114,0.78,0.98
+31034,32000,32,0.0,5,10,2021,1,State,Nevada,Nevada -- Statewide,Private,"10 Total, all industries",,89962,1110235,1124413,1138097,15585487773,1066,1.04,1.01
+31035,32000,32,0.0,5,101,2021,1,State,Nevada,Nevada -- Statewide,Private,101 Goods-producing,,8361,166813,169860,172801,2878093291,1304,0.9,1.02
+31036,32000,32,0.0,5,1011,2021,1,State,Nevada,Nevada -- Statewide,Private,1011 Natural resources and mining,,590,19172,19234,19517,449439499,1791,1.3,2.31
+31037,32000,32,0.0,5,1012,2021,1,State,Nevada,Nevada -- Statewide,Private,1012 Construction,,5733,90526,92943,94876,1483592692,1230,1.45,1.72
+31038,32000,32,0.0,5,1013,2021,1,State,Nevada,Nevada -- Statewide,Private,1013 Manufacturing,,2038,57115,57683,58408,945061100,1259,0.52,0.54
+31039,32000,32,0.0,5,102,2021,1,State,Nevada,Nevada -- Statewide,Private,102 Service-providing,,81601,943422,954553,965296,12707394482,1024,1.07,1.01
+31040,32000,32,0.0,5,1021,2021,1,State,Nevada,Nevada -- Statewide,Private,"1021 Trade, transportation, and utilities",,15196,263592,262351,263058,3154664729,923,1.06,1.16
+31041,32000,32,0.0,5,1022,2021,1,State,Nevada,Nevada -- Statewide,Private,1022 Information,,1684,13222,13934,13564,538687152,3053,0.54,0.63
+31042,32000,32,0.0,5,1023,2021,1,State,Nevada,Nevada -- Statewide,Private,1023 Financial activities,,9362,62610,63086,63279,1379363317,1684,0.84,0.62
+31043,32000,32,0.0,5,1024,2021,1,State,Nevada,Nevada -- Statewide,Private,1024 Professional and business services,,20191,174982,176260,177054,3094453422,1352,0.93,0.88
+31044,32000,32,0.0,5,1025,2021,1,State,Nevada,Nevada -- Statewide,Private,1025 Education and health services,,9190,142648,143548,144062,1965276042,1054,0.69,0.86
+31045,32000,32,0.0,5,1026,2021,1,State,Nevada,Nevada -- Statewide,Private,1026 Leisure and hospitality,,8510,240736,248270,255767,1917116385,594,2.17,3.25
+31046,32000,32,0.0,5,1027,2021,1,State,Nevada,Nevada -- Statewide,Private,1027 Other services,,4978,29934,30343,30854,308451224,781,0.84,0.94
+31047,32000,32,0.0,5,1029,2021,1,State,Nevada,Nevada -- Statewide,Private,1029 Unclassified,,12490,15698,16761,17658,349382211,1609,10.2,15.56
+31361,33000,33,0.0,0,10,2021,1,State,New Hampshire,New Hampshire -- Statewide,Total Covered,"10 Total, all industries",,56519,627787,630579,632432,10338649637,1262,1.0,1.0
+31362,33000,33,0.0,1,10,2021,1,State,New Hampshire,New Hampshire -- Statewide,Federal Government,"10 Total, all industries",,422,7991,7909,7911,157655345,1528,0.61,0.6
+31363,33000,33,0.0,2,10,2021,1,State,New Hampshire,New Hampshire -- Statewide,State Government,"10 Total, all industries",,1355,18608,19677,19811,270504160,1074,0.95,0.82
+31364,33000,33,0.0,3,10,2021,1,State,New Hampshire,New Hampshire -- Statewide,Local Government,"10 Total, all industries",,797,55361,55901,56435,658364037,906,0.91,0.78
+31365,33000,33,0.0,5,10,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,"10 Total, all industries",,53945,545827,547092,548275,9252126095,1301,1.02,1.04
+31366,33000,33,0.0,5,101,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,101 Goods-producing,,7342,95580,95454,96208,1733718816,1393,1.02,1.07
+31367,33000,33,0.0,5,1011,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1011 Natural resources and mining,,345,2154,2272,2421,24899207,839,0.33,0.22
+31368,33000,33,0.0,5,1012,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1012 Construction,,5003,26712,26555,26657,413995306,1195,0.83,0.83
+31369,33000,33,0.0,5,1013,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1013 Manufacturing,,1994,66714,66627,67130,1294824303,1491,1.22,1.28
+31370,33000,33,0.0,5,102,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,102 Service-providing,,46603,450247,451638,452067,7518407279,1281,1.02,1.03
+31371,33000,33,0.0,5,1021,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,"1021 Trade, transportation, and utilities",,12534,138104,136107,135365,1848184597,1041,1.12,1.17
+31372,33000,33,0.0,5,1022,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1022 Information,,1253,11472,11532,11577,343569382,2293,0.94,0.7
+31373,33000,33,0.0,5,1023,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1023 Financial activities,,4072,33326,33420,33564,1059359092,2437,0.9,0.82
+31374,33000,33,0.0,5,1024,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1024 Professional and business services,,14302,82832,84421,83651,2089664702,1922,0.9,1.02
+31375,33000,33,0.0,5,1025,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1025 Education and health services,,4952,110049,110420,110835,1628176458,1134,1.09,1.23
+31376,33000,33,0.0,5,1026,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1026 Leisure and hospitality,,4674,54802,55945,57138,328090726,451,0.99,0.96
+31377,33000,33,0.0,5,1027,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1027 Other services,,4186,18815,18904,19046,191389862,778,1.06,1.01
+31378,33000,33,0.0,5,1029,2021,1,State,New Hampshire,New Hampshire -- Statewide,Private,1029 Unclassified,,630,847,889,891,29972460,2633,1.05,2.31
+31576,34000,34,0.0,0,10,2021,1,State,New Jersey,New Jersey -- Statewide,Total Covered,"10 Total, all industries",,294642,3765905,3778866,3815010,75493768533,1534,1.0,1.0
+31577,34000,34,0.0,1,10,2021,1,State,New Jersey,New Jersey -- Statewide,Federal Government,"10 Total, all industries",,1133,48709,48867,48700,1001000672,1579,0.63,0.53
+31578,34000,34,0.0,2,10,2021,1,State,New Jersey,New Jersey -- Statewide,State Government,"10 Total, all industries",,845,120742,126245,126564,2345031752,1449,1.01,0.97
+31579,34000,34,0.0,3,10,2021,1,State,New Jersey,New Jersey -- Statewide,Local Government,"10 Total, all industries",,3620,375006,382305,384286,6814008495,1377,1.03,1.11
+31580,34000,34,0.0,5,10,2021,1,State,New Jersey,New Jersey -- Statewide,Private,"10 Total, all industries",,289044,3221448,3221449,3255460,65333727614,1555,1.01,1.0
+31581,34000,34,0.0,5,101,2021,1,State,New Jersey,New Jersey -- Statewide,Private,101 Goods-producing,,32815,389985,385679,394122,8393902255,1656,0.69,0.71
+31582,34000,34,0.0,5,1011,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1011 Natural resources and mining,,1000,8755,8737,9551,104690237,893,0.22,0.13
+31583,34000,34,0.0,5,1012,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1012 Construction,,22725,145610,141159,147555,2643653892,1405,0.76,0.72
+31584,34000,34,0.0,5,1013,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1013 Manufacturing,,9090,235620,235783,237016,5645558126,1839,0.72,0.76
+31585,34000,34,0.0,5,102,2021,1,State,New Jersey,New Jersey -- Statewide,Private,102 Service-providing,,256229,2831463,2835770,2861338,56939825359,1541,1.07,1.07
+31586,34000,34,0.0,5,1021,2021,1,State,New Jersey,New Jersey -- Statewide,Private,"1021 Trade, transportation, and utilities",,54833,842680,830486,832107,12228487823,1126,1.14,1.06
+31587,34000,34,0.0,5,1022,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1022 Information,,4213,67338,68356,68382,2952102211,3338,0.92,0.82
+31588,34000,34,0.0,5,1023,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1023 Financial activities,,20809,238116,238479,239260,10293020087,3318,1.07,1.09
+31589,34000,34,0.0,5,1024,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1024 Professional and business services,,55171,647600,650795,655195,18705976184,2210,1.17,1.25
+31590,34000,34,0.0,5,1025,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1025 Education and health services,,44254,628585,634444,639623,9093915444,1103,1.04,0.94
+31591,34000,34,0.0,5,1026,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1026 Leisure and hospitality,,24894,263668,267641,278193,1894725705,540,0.8,0.76
+31592,34000,34,0.0,5,1027,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1027 Other services,,24896,115632,116278,117869,1206626441,796,1.08,0.87
+31593,34000,34,0.0,5,1029,2021,1,State,New Jersey,New Jersey -- Statewide,Private,1029 Unclassified,,27159,27844,29291,30709,564971464,1484,6.0,5.95
+31990,35000,35,0.0,0,10,2021,1,State,New Mexico,New Mexico -- Statewide,Total Covered,"10 Total, all industries",,62801,759965,768615,777211,9553469060,956,1.0,1.0
+31991,35000,35,0.0,1,10,2021,1,State,New Mexico,New Mexico -- Statewide,Federal Government,"10 Total, all industries",,839,29229,29263,29249,564265235,1484,1.85,2.34
+31992,35000,35,0.0,2,10,2021,1,State,New Mexico,New Mexico -- Statewide,State Government,"10 Total, all industries",,1171,47048,47460,47642,742629533,1206,1.86,2.43
+31993,35000,35,0.0,3,10,2021,1,State,New Mexico,New Mexico -- Statewide,Local Government,"10 Total, all industries",,2062,90797,91805,92744,1007041587,844,1.22,1.3
+31994,35000,35,0.0,5,10,2021,1,State,New Mexico,New Mexico -- Statewide,Private,"10 Total, all industries",,58729,592891,600087,607576,7239532705,928,0.92,0.88
+31995,35000,35,0.0,5,101,2021,1,State,New Mexico,New Mexico -- Statewide,Private,101 Goods-producing,,9063,99511,100000,101202,1436715255,1103,0.87,0.96
+31996,35000,35,0.0,5,1011,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1011 Natural resources and mining,,2010,27021,26779,26916,474161504,1356,2.98,4.55
+31997,35000,35,0.0,5,1012,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1012 Construction,,5329,45837,46348,47187,577603955,956,1.2,1.25
+31998,35000,35,0.0,5,1013,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1013 Manufacturing,,1724,26653,26873,27099,384949796,1102,0.4,0.41
+31999,35000,35,0.0,5,102,2021,1,State,New Mexico,New Mexico -- Statewide,Private,102 Service-providing,,49666,493380,500087,506374,5802817450,893,0.93,0.86
+32000,35000,35,0.0,5,1021,2021,1,State,New Mexico,New Mexico -- Statewide,Private,"1021 Trade, transportation, and utilities",,10711,131564,131303,131784,1326345882,776,0.88,0.91
+32001,35000,35,0.0,5,1022,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1022 Information,,1206,8697,10074,9422,168008326,1375,0.62,0.37
+32002,35000,35,0.0,5,1023,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1023 Financial activities,,5647,31843,31809,31750,523118574,1265,0.7,0.44
+32003,35000,35,0.0,5,1024,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1024 Professional and business services,,11598,108108,108865,109507,1870210120,1322,0.96,0.99
+32004,35000,35,0.0,5,1025,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1025 Education and health services,,10995,127482,128073,128419,1381101248,830,1.03,1.13
+32005,35000,35,0.0,5,1026,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1026 Leisure and hospitality,,5248,67735,71803,77162,356011619,379,1.09,1.13
+32006,35000,35,0.0,5,1027,2021,1,State,New Mexico,New Mexico -- Statewide,Private,1027 Other services,,4261,17951,18160,18330,178021681,755,0.83,1.01
+32579,36000,36,0.0,0,10,2021,1,State,New York,New York -- Statewide,Total Covered,"10 Total, all industries",,659512,8446262,8502504,8597896,206738094465,1868,1.0,1.0
+32580,36000,36,0.0,1,10,2021,1,State,New York,New York -- Statewide,Federal Government,"10 Total, all industries",,2763,114104,114164,113964,2259734695,1524,0.65,0.43
+32581,36000,36,0.0,2,10,2021,1,State,New York,New York -- Statewide,State Government,"10 Total, all industries",,3678,218550,219103,219204,4292964324,1508,0.77,0.65
+32582,36000,36,0.0,3,10,2021,1,State,New York,New York -- Statewide,Local Government,"10 Total, all industries",,9951,1038449,1045961,1049983,18344858003,1351,1.25,1.09
+32583,36000,36,0.0,5,10,2021,1,State,New York,New York -- Statewide,Private,"10 Total, all industries",,643120,7075159,7123276,7214745,181840537443,1960,0.99,1.02
+32584,36000,36,0.0,5,101,2021,1,State,New York,New York -- Statewide,Private,101 Goods-producing,,69769,773606,765836,783861,14152585764,1406,0.61,0.44
+32585,36000,36,0.0,5,1011,2021,1,State,New York,New York -- Statewide,Private,1011 Natural resources and mining,,3363,26954,26943,28394,298112041,836,0.28,0.13
+32586,36000,36,0.0,5,1012,2021,1,State,New York,New York -- Statewide,Private,1012 Construction,,50238,349364,341279,355345,6488361695,1431,0.81,0.65
+32587,36000,36,0.0,5,1013,2021,1,State,New York,New York -- Statewide,Private,1013 Manufacturing,,16168,397288,397614,400122,7366112028,1422,0.54,0.36
+32588,36000,36,0.0,5,102,2021,1,State,New York,New York -- Statewide,Private,102 Service-providing,,573351,6301553,6357440,6430884,167687951679,2027,1.07,1.15
+32589,36000,36,0.0,5,1021,2021,1,State,New York,New York -- Statewide,Private,"1021 Trade, transportation, and utilities",,116118,1386481,1368408,1373751,19828247390,1108,0.83,0.63
+32590,36000,36,0.0,5,1022,2021,1,State,New York,New York -- Statewide,Private,1022 Information,,14509,263104,265752,271688,12432086690,3584,1.61,1.27
+32591,36000,36,0.0,5,1023,2021,1,State,New York,New York -- Statewide,Private,1023 Financial activities,,63129,686333,686606,686980,63987707719,7168,1.36,2.47
+32592,36000,36,0.0,5,1024,2021,1,State,New York,New York -- Statewide,Private,1024 Professional and business services,,116053,1213819,1225426,1237571,35667635766,2239,0.98,0.87
+32593,36000,36,0.0,5,1025,2021,1,State,New York,New York -- Statewide,Private,1025 Education and health services,,67008,1868140,1891653,1907125,26654838859,1085,1.38,1.01
+32594,36000,36,0.0,5,1026,2021,1,State,New York,New York -- Statewide,Private,1026 Leisure and hospitality,,63917,542657,574884,603456,4854585039,651,0.77,0.71
+32595,36000,36,0.0,5,1027,2021,1,State,New York,New York -- Statewide,Private,1027 Other services,,69082,303083,304568,308091,3644531167,918,1.26,0.96
+32596,36000,36,0.0,5,1029,2021,1,State,New York,New York -- Statewide,Private,1029 Unclassified,,63535,37936,40143,42222,618319049,1186,3.66,2.38
+33731,37000,37,0.0,0,10,2021,1,State,North Carolina,North Carolina -- Statewide,Total Covered,"10 Total, all industries",,304905,4375135,4399829,4427576,64976789082,1136,1.0,1.0
+33732,37000,37,0.0,1,10,2021,1,State,North Carolina,North Carolina -- Statewide,Federal Government,"10 Total, all industries",,1587,75518,75935,76036,1348706275,1368,0.84,0.82
+33733,37000,37,0.0,2,10,2021,1,State,North Carolina,North Carolina -- Statewide,State Government,"10 Total, all industries",,1517,172992,175911,177326,2484749811,1090,1.22,1.2
+33734,37000,37,0.0,3,10,2021,1,State,North Carolina,North Carolina -- Statewide,Local Government,"10 Total, all industries",,4738,426609,426974,430607,5091242752,915,0.99,0.96
+33735,37000,37,0.0,5,10,2021,1,State,North Carolina,North Carolina -- Statewide,Private,"10 Total, all industries",,297063,3700016,3721009,3743607,56052090244,1159,1.0,1.0
+33736,37000,37,0.0,5,101,2021,1,State,North Carolina,North Carolina -- Statewide,Private,101 Goods-producing,,43076,716488,720954,725581,11079747504,1182,1.1,1.08
+33737,37000,37,0.0,5,1011,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1011 Natural resources and mining,,3316,27159,27132,27902,287840333,808,0.54,0.41
+33738,37000,37,0.0,5,1012,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1012 Construction,,29480,231667,233307,236052,3252589718,1071,1.05,1.03
+33739,37000,37,0.0,5,1013,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1013 Manufacturing,,10280,457662,460515,461627,7539317453,1261,1.2,1.18
+33740,37000,37,0.0,5,102,2021,1,State,North Carolina,North Carolina -- Statewide,Private,102 Service-providing,,253987,2983528,3000055,3018026,44972342740,1153,0.97,0.98
+33741,37000,37,0.0,5,1021,2021,1,State,North Carolina,North Carolina -- Statewide,Private,"1021 Trade, transportation, and utilities",,64166,877245,874634,877500,10522997257,924,1.03,1.06
+33742,37000,37,0.0,5,1022,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1022 Information,,6823,75004,75680,75477,2145850673,2190,0.87,0.7
+33743,37000,37,0.0,5,1023,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1023 Financial activities,,30975,260112,261601,262447,8443888014,2485,1.01,1.04
+33744,37000,37,0.0,5,1024,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1024 Professional and business services,,67009,649861,658214,660647,12660947389,1484,1.01,0.99
+33745,37000,37,0.0,5,1025,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1025 Education and health services,,31236,599003,603371,602451,7889078013,1009,0.85,0.95
+33746,37000,37,0.0,5,1026,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1026 Leisure and hospitality,,27317,412447,415882,427722,2225713403,409,1.06,1.04
+33747,37000,37,0.0,5,1027,2021,1,State,North Carolina,North Carolina -- Statewide,Private,1027 Other services,,26461,109856,110673,111782,1083867991,753,0.89,0.91
+35464,38000,38,0.0,0,10,2021,1,State,North Dakota,North Dakota -- Statewide,Total Covered,"10 Total, all industries",,32257,385745,386511,390087,5211591068,1035,1.0,1.0
+35465,38000,38,0.0,1,10,2021,1,State,North Dakota,North Dakota -- Statewide,Federal Government,"10 Total, all industries",,692,9314,9315,9348,153963964,1270,1.18,1.17
+35466,38000,38,0.0,2,10,2021,1,State,North Dakota,North Dakota -- Statewide,State Government,"10 Total, all industries",,394,18320,18506,18521,275983455,1151,1.44,1.66
+35467,38000,38,0.0,3,10,2021,1,State,North Dakota,North Dakota -- Statewide,Local Government,"10 Total, all industries",,982,43415,44302,44180,487054879,852,1.16,1.15
+35468,38000,38,0.0,5,10,2021,1,State,North Dakota,North Dakota -- Statewide,Private,"10 Total, all industries",,30189,314696,314388,318038,4294588770,1046,0.96,0.96
+35469,38000,38,0.0,5,101,2021,1,State,North Dakota,North Dakota -- Statewide,Private,101 Goods-producing,,6180,61914,61020,62919,1043653568,1296,1.08,1.27
+35470,38000,38,0.0,5,1011,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1011 Natural resources and mining,,1819,16593,16534,17047,371902993,1711,3.76,6.54
+35471,38000,38,0.0,5,1012,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1012 Construction,,3563,19860,19049,20233,287298657,1121,1.02,1.14
+35472,38000,38,0.0,5,1013,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1013 Manufacturing,,798,25461,25437,25639,384451918,1159,0.76,0.75
+35473,38000,38,0.0,5,102,2021,1,State,North Dakota,North Dakota -- Statewide,Private,102 Service-providing,,24009,252782,253368,255119,3250935202,985,0.93,0.89
+35474,38000,38,0.0,5,1021,2021,1,State,North Dakota,North Dakota -- Statewide,Private,"1021 Trade, transportation, and utilities",,7658,86261,85769,85939,1099749844,984,1.15,1.38
+35475,38000,38,0.0,5,1022,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1022 Information,,442,5739,5747,5753,111399156,1491,0.75,0.45
+35476,38000,38,0.0,5,1023,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1023 Financial activities,,3054,21974,21961,22053,425909069,1489,0.96,0.65
+35477,38000,38,0.0,5,1024,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1024 Professional and business services,,5293,30906,30922,31411,497607808,1232,0.55,0.48
+35478,38000,38,0.0,5,1025,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1025 Education and health services,,2832,64627,64710,64727,855352855,1017,1.03,1.28
+35479,38000,38,0.0,5,1026,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1026 Leisure and hospitality,,2608,33278,34225,35050,160718848,362,0.98,0.93
+35480,38000,38,0.0,5,1027,2021,1,State,North Dakota,North Dakota -- Statewide,Private,1027 Other services,,2122,9997,10034,10186,100197622,765,0.92,1.05
+36377,39000,39,0.0,0,10,2021,1,State,Ohio,Ohio -- Statewide,Total Covered,"10 Total, all industries",,310715,5099124,5107259,5140241,72940730879,1097,1.0,1.0
+36378,39000,39,0.0,1,10,2021,1,State,Ohio,Ohio -- Statewide,Federal Government,"10 Total, all industries",,1873,79660,79425,79586,1547438410,1496,0.76,0.84
+36379,39000,39,0.0,2,10,2021,1,State,Ohio,Ohio -- Statewide,State Government,"10 Total, all industries",,1198,125704,129145,129038,2306623028,1387,0.76,0.99
+36380,39000,39,0.0,3,10,2021,1,State,Ohio,Ohio -- Statewide,Local Government,"10 Total, all industries",,11386,487301,491916,493296,6328710382,992,0.98,1.07
+36381,39000,39,0.0,5,10,2021,1,State,Ohio,Ohio -- Statewide,Private,"10 Total, all industries",,296258,4406459,4406773,4438321,62757959059,1093,1.02,1.0
+36382,39000,39,0.0,5,101,2021,1,State,Ohio,Ohio -- Statewide,Private,101 Goods-producing,,42094,885582,882843,895666,14181282902,1228,1.17,1.24
+36383,39000,39,0.0,5,1011,2021,1,State,Ohio,Ohio -- Statewide,Private,1011 Natural resources and mining,,2568,23012,23097,24491,288411015,943,0.41,0.36
+36384,39000,39,0.0,5,1012,2021,1,State,Ohio,Ohio -- Statewide,Private,1012 Construction,,24005,203028,198237,207929,3156157406,1196,0.8,0.89
+36385,39000,39,0.0,5,1013,2021,1,State,Ohio,Ohio -- Statewide,Private,1013 Manufacturing,,15521,659542,661509,663246,10736714481,1249,1.49,1.5
+36386,39000,39,0.0,5,102,2021,1,State,Ohio,Ohio -- Statewide,Private,102 Service-providing,,254164,3520877,3523930,3542655,48576676157,1059,0.99,0.95
+36387,39000,39,0.0,5,1021,2021,1,State,Ohio,Ohio -- Statewide,Private,"1021 Trade, transportation, and utilities",,69541,1020099,1009314,1010953,12310721753,934,1.03,1.1
+36388,39000,39,0.0,5,1022,2021,1,State,Ohio,Ohio -- Statewide,Private,1022 Information,,5854,62855,63150,62922,1369481360,1673,0.63,0.4
+36389,39000,39,0.0,5,1023,2021,1,State,Ohio,Ohio -- Statewide,Private,1023 Financial activities,,29846,288837,289122,289459,7098386018,1888,0.96,0.78
+36390,39000,39,0.0,5,1024,2021,1,State,Ohio,Ohio -- Statewide,Private,1024 Professional and business services,,57962,697947,699662,700924,13514460164,1486,0.93,0.94
+36391,39000,39,0.0,5,1025,2021,1,State,Ohio,Ohio -- Statewide,Private,1025 Education and health services,,36703,868343,870763,871234,10647830188,941,1.05,1.14
+36392,39000,39,0.0,5,1026,2021,1,State,Ohio,Ohio -- Statewide,Private,1026 Leisure and hospitality,,29247,442946,451124,464728,2323036969,395,0.99,0.97
+36393,39000,39,0.0,5,1027,2021,1,State,Ohio,Ohio -- Statewide,Private,1027 Other services,,24410,138932,139818,141447,1299367161,714,0.96,0.97
+36394,39000,39,0.0,5,1029,2021,1,State,Ohio,Ohio -- Statewide,Private,1029 Unclassified,,601,918,977,988,13392544,1072,0.14,0.15
+37960,40000,40,0.0,0,10,2021,1,State,Oklahoma,Oklahoma -- Statewide,Total Covered,"10 Total, all industries",,114095,1542293,1534815,1556733,18813009695,937,1.0,1.0
+37961,40000,40,0.0,1,10,2021,1,State,Oklahoma,Oklahoma -- Statewide,Federal Government,"10 Total, all industries",,1220,50514,50659,50723,887647439,1349,1.6,1.87
+37962,40000,40,0.0,2,10,2021,1,State,Oklahoma,Oklahoma -- Statewide,State Government,"10 Total, all industries",,1027,62829,64877,64053,839730852,1011,1.25,1.4
+37963,40000,40,0.0,3,10,2021,1,State,Oklahoma,Oklahoma -- Statewide,Local Government,"10 Total, all industries",,3687,204741,205103,205345,2156114223,809,1.35,1.41
+37964,40000,40,0.0,5,10,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,"10 Total, all industries",,108161,1224209,1214176,1236612,14929517181,937,0.94,0.92
+37965,40000,40,0.0,5,101,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,101 Goods-producing,,18429,240471,237696,244206,3792646911,1212,1.05,1.28
+37966,40000,40,0.0,5,1011,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1011 Natural resources and mining,,4304,36352,36057,37034,930732299,1963,2.04,4.54
+37967,40000,40,0.0,5,1012,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1012 Construction,,9972,75875,73367,77862,960626477,976,0.99,1.06
+37968,40000,40,0.0,5,1013,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1013 Manufacturing,,4153,128244,128272,129310,1901288135,1137,0.96,1.03
+37969,40000,40,0.0,5,102,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,102 Service-providing,,89732,983738,976480,992406,11136870270,870,0.91,0.84
+37970,40000,40,0.0,5,1021,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,"1021 Trade, transportation, and utilities",,23918,309439,305293,306941,3259002329,816,1.03,1.13
+37971,40000,40,0.0,5,1022,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1022 Information,,1653,17553,17544,17419,302892834,1331,0.57,0.34
+37972,40000,40,0.0,5,1023,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1023 Financial activities,,11935,74478,74248,74409,1304027140,1349,0.81,0.55
+37973,40000,40,0.0,5,1024,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1024 Professional and business services,,22389,183168,182932,187156,2772116065,1156,0.82,0.75
+37974,40000,40,0.0,5,1025,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1025 Education and health services,,13858,210988,210081,212106,2466889244,899,0.85,1.02
+37975,40000,40,0.0,5,1026,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1026 Leisure and hospitality,,9413,154421,152780,160007,726918927,359,1.12,1.17
+37976,40000,40,0.0,5,1027,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1027 Other services,,6564,33691,33602,34368,305023731,692,0.77,0.88
+37977,40000,40,0.0,5,1029,2021,1,State,Oklahoma,Oklahoma -- Statewide,Private,1029 Unclassified,,2,0,0,0,0,0,0.0,0.0
+39299,41000,41,0.0,0,10,2021,1,State,Oregon,Oregon -- Statewide,Total Covered,"10 Total, all industries",,167889,1793694,1815139,1846888,27711197456,1172,1.0,1.0
+39300,41000,41,0.0,1,10,2021,1,State,Oregon,Oregon -- Statewide,Federal Government,"10 Total, all industries",,867,27796,27642,27807,540464674,1498,0.74,0.77
+39301,41000,41,0.0,2,10,2021,1,State,Oregon,Oregon -- Statewide,State Government,"10 Total, all industries",,913,41757,41853,42168,781141188,1433,0.69,0.88
+39302,41000,41,0.0,3,10,2021,1,State,Oregon,Oregon -- Statewide,Local Government,"10 Total, all industries",,3675,194976,197206,200126,3056429601,1191,1.11,1.36
+39303,41000,41,0.0,5,10,2021,1,State,Oregon,Oregon -- Statewide,Private,"10 Total, all industries",,162434,1529165,1548438,1576787,23333161993,1157,1.01,0.98
+39304,41000,41,0.0,5,101,2021,1,State,Oregon,Oregon -- Statewide,Private,101 Goods-producing,,26148,330401,333372,339720,5813187352,1337,1.23,1.33
+39305,41000,41,0.0,5,1011,2021,1,State,Oregon,Oregon -- Statewide,Private,1011 Natural resources and mining,,4743,44300,45822,48816,450995427,749,2.27,1.49
+39306,41000,41,0.0,5,1012,2021,1,State,Oregon,Oregon -- Statewide,Private,1012 Construction,,15043,104631,105161,107406,1707759726,1242,1.15,1.27
+39307,41000,41,0.0,5,1013,2021,1,State,Oregon,Oregon -- Statewide,Private,1013 Manufacturing,,6362,181470,182389,183498,3654432199,1541,1.14,1.35
+39308,41000,41,0.0,5,102,2021,1,State,Oregon,Oregon -- Statewide,Private,102 Service-providing,,136286,1198764,1215066,1237067,17519974641,1107,0.96,0.9
+39309,41000,41,0.0,5,1021,2021,1,State,Oregon,Oregon -- Statewide,Private,"1021 Trade, transportation, and utilities",,26197,354913,353752,354974,4377551323,950,1.0,1.03
+39310,41000,41,0.0,5,1022,2021,1,State,Oregon,Oregon -- Statewide,Private,1022 Information,,4882,33069,33973,33743,933188936,2137,0.93,0.71
+39311,41000,41,0.0,5,1023,2021,1,State,Oregon,Oregon -- Statewide,Private,1023 Financial activities,,13294,83381,83545,83651,1925787141,1774,0.77,0.55
+39312,41000,41,0.0,5,1024,2021,1,State,Oregon,Oregon -- Statewide,Private,1024 Professional and business services,,27683,242240,243666,245738,4904957544,1547,0.9,0.9
+39313,41000,41,0.0,5,1025,2021,1,State,Oregon,Oregon -- Statewide,Private,1025 Education and health services,,28601,291841,294460,296558,3853144324,1007,1.0,1.08
+39314,41000,41,0.0,5,1026,2021,1,State,Oregon,Oregon -- Statewide,Private,1026 Leisure and hospitality,,13863,130486,141639,157059,842053849,453,0.93,0.92
+39315,41000,41,0.0,5,1027,2021,1,State,Oregon,Oregon -- Statewide,Private,1027 Other services,,15318,59849,60518,61358,626654125,796,1.16,1.23
+39316,41000,41,0.0,5,1029,2021,1,State,Oregon,Oregon -- Statewide,Private,1029 Unclassified,,6448,2985,3513,3986,56637399,1247,1.61,1.63
+39982,42000,42,0.0,0,10,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Total Covered,"10 Total, all industries",,362871,5458262,5480285,5537841,87469293139,1225,1.0,1.0
+39983,42000,42,0.0,1,10,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Federal Government,"10 Total, all industries",,2724,98557,98774,98566,1862423267,1452,0.87,0.84
+39984,42000,42,0.0,2,10,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,State Government,"10 Total, all industries",,1448,126368,125993,126464,2123928339,1294,0.69,0.76
+39985,42000,42,0.0,3,10,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Local Government,"10 Total, all industries",,8885,425475,432081,434827,5900050627,1054,0.8,0.83
+39986,42000,42,0.0,5,10,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,"10 Total, all industries",,349814,4807862,4823437,4877984,77582890906,1234,1.04,1.03
+39987,42000,42,0.0,5,101,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,101 Goods-producing,,47133,810645,806573,823366,13723322012,1298,1.0,1.0
+39988,42000,42,0.0,5,1011,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1011 Natural resources and mining,,3630,43331,43394,44971,732987648,1284,0.7,0.77
+39989,42000,42,0.0,5,1012,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1012 Construction,,29232,232660,227228,239189,3914799817,1292,0.85,0.93
+39990,42000,42,0.0,5,1013,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1013 Manufacturing,,14271,534654,535951,539206,9075534547,1301,1.12,1.06
+39991,42000,42,0.0,5,102,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,102 Service-providing,,302681,3997217,4016864,4054618,63859568894,1221,1.05,1.04
+39992,42000,42,0.0,5,1021,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,"1021 Trade, transportation, and utilities",,73332,1089594,1076593,1080505,13285755857,944,1.02,0.99
+39993,42000,42,0.0,5,1022,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1022 Information,,6388,81790,82536,83337,2657152127,2476,0.77,0.64
+39994,42000,42,0.0,5,1023,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1023 Financial activities,,30246,324260,325069,326006,10000258276,2366,1.0,0.91
+39995,42000,42,0.0,5,1024,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1024 Professional and business services,,68490,768670,775049,780800,18214525236,1808,0.96,1.05
+39996,42000,42,0.0,5,1025,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1025 Education and health services,,57979,1165508,1174942,1179812,15884542227,1041,1.32,1.42
+39997,42000,42,0.0,5,1026,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1026 Leisure and hospitality,,32568,394659,408940,427671,2178338110,408,0.85,0.75
+39998,42000,42,0.0,5,1027,2021,1,State,Pennsylvania,Pennsylvania -- Statewide,Private,1027 Other services,,33678,172736,173735,176487,1638997061,723,1.12,1.02
+41155,44000,44,0.0,0,10,2021,1,State,Rhode Island,Rhode Island -- Statewide,Total Covered,"10 Total, all industries",,41327,439934,443745,448181,6753381020,1170,1.0,1.0
+41156,44000,44,0.0,1,10,2021,1,State,Rhode Island,Rhode Island -- Statewide,Federal Government,"10 Total, all industries",,189,11243,11269,11258,239781147,1639,1.23,1.41
+41157,44000,44,0.0,2,10,2021,1,State,Rhode Island,Rhode Island -- Statewide,State Government,"10 Total, all industries",,130,16792,16711,16682,295367509,1358,1.13,1.37
+41158,44000,44,0.0,3,10,2021,1,State,Rhode Island,Rhode Island -- Statewide,Local Government,"10 Total, all industries",,396,31383,31640,31867,471875392,1148,0.73,0.86
+41159,44000,44,0.0,5,10,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,"10 Total, all industries",,40612,380516,384125,388374,5746356972,1150,1.02,0.99
+41160,44000,44,0.0,5,101,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,101 Goods-producing,,5647,56522,56471,57577,882432391,1194,0.86,0.83
+41161,44000,44,0.0,5,1011,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1011 Natural resources and mining,,207,823,837,924,8130089,726,0.18,0.11
+41162,44000,44,0.0,5,1012,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1012 Construction,,3929,17908,17529,18206,281937734,1213,0.8,0.86
+41163,44000,44,0.0,5,1013,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1013 Manufacturing,,1511,37791,38105,38447,592364568,1196,0.99,0.89
+41164,44000,44,0.0,5,102,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,102 Service-providing,,34965,323994,327654,330797,4863924581,1143,1.06,1.02
+41165,44000,44,0.0,5,1021,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,"1021 Trade, transportation, and utilities",,7947,73343,72759,72802,882231489,930,0.85,0.86
+41166,44000,44,0.0,5,1022,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1022 Information,,831,5150,5401,5205,121552960,1780,0.59,0.38
+41167,44000,44,0.0,5,1023,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1023 Financial activities,,3190,30888,30936,30955,903652034,2248,1.18,1.07
+41168,44000,44,0.0,5,1024,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1024 Professional and business services,,10175,64899,65877,66125,1355208395,1588,1.0,1.02
+41169,44000,44,0.0,5,1025,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1025 Education and health services,,5130,95190,96183,96962,1216367805,974,1.35,1.4
+41170,44000,44,0.0,5,1026,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1026 Leisure and hospitality,,3910,39364,41250,43338,240006462,447,1.06,1.08
+41171,44000,44,0.0,5,1027,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1027 Other services,,3690,15085,15162,15296,142888121,724,1.2,1.15
+41172,44000,44,0.0,5,1029,2021,1,State,Rhode Island,Rhode Island -- Statewide,Private,1029 Unclassified,,92,75,86,114,2017315,1693,0.19,0.24
+41279,45000,45,0.0,0,10,2021,1,State,South Carolina,South Carolina -- Statewide,Total Covered,"10 Total, all industries",,149962,2035606,2049256,2060462,25472416182,957,1.0,1.0
+41280,45000,45,0.0,1,10,2021,1,State,South Carolina,South Carolina -- Statewide,Federal Government,"10 Total, all industries",,957,35788,35911,35791,625923485,1344,0.85,0.97
+41281,45000,45,0.0,2,10,2021,1,State,South Carolina,South Carolina -- Statewide,State Government,"10 Total, all industries",,1107,91215,91911,91990,1220730068,1024,1.35,1.5
+41282,45000,45,0.0,3,10,2021,1,State,South Carolina,South Carolina -- Statewide,Local Government,"10 Total, all industries",,2014,221223,220830,221090,2580939930,898,1.1,1.25
+41283,45000,45,0.0,5,10,2021,1,State,South Carolina,South Carolina -- Statewide,Private,"10 Total, all industries",,145884,1687380,1700604,1711591,21044822699,952,0.98,0.96
+41284,45000,45,0.0,5,101,2021,1,State,South Carolina,South Carolina -- Statewide,Private,101 Goods-producing,,21845,360406,362644,363815,5405598800,1148,1.18,1.35
+41285,45000,45,0.0,5,1011,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1011 Natural resources and mining,,1420,11944,11820,12025,131829454,850,0.5,0.47
+41286,45000,45,0.0,5,1012,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1012 Construction,,13451,102077,102539,103567,1434961951,1075,0.99,1.16
+41287,45000,45,0.0,5,1013,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1013 Manufacturing,,6974,246385,248285,248223,3838807395,1192,1.39,1.54
+41288,45000,45,0.0,5,102,2021,1,State,South Carolina,South Carolina -- Statewide,Private,102 Service-providing,,124039,1326974,1337960,1347776,15639223899,899,0.94,0.87
+41289,45000,45,0.0,5,1021,2021,1,State,South Carolina,South Carolina -- Statewide,Private,"1021 Trade, transportation, and utilities",,32190,406023,405220,407321,4455377110,844,1.03,1.15
+41290,45000,45,0.0,5,1022,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1022 Information,,3544,26619,26528,26467,596640456,1729,0.66,0.49
+41291,45000,45,0.0,5,1023,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1023 Financial activities,,15771,102095,102510,102871,2087525166,1567,0.85,0.65
+41292,45000,45,0.0,5,1024,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1024 Professional and business services,,32335,286697,290922,290891,4086926704,1086,0.96,0.81
+41293,45000,45,0.0,5,1025,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1025 Education and health services,,16222,234204,237520,238117,2865416752,932,0.72,0.88
+41294,45000,45,0.0,5,1026,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1026 Leisure and hospitality,,13643,221878,225471,231862,1087389040,369,1.23,1.29
+41295,45000,45,0.0,5,1027,2021,1,State,South Carolina,South Carolina -- Statewide,Private,1027 Other services,,10334,49458,49789,50247,459948671,710,0.86,0.98
+42095,46000,46,0.0,0,10,2021,1,State,South Dakota,South Dakota -- Statewide,Total Covered,"10 Total, all industries",,35641,412384,413196,417394,5017933899,932,1.0,1.0
+42096,46000,46,0.0,1,10,2021,1,State,South Dakota,South Dakota -- Statewide,Federal Government,"10 Total, all industries",,752,11359,11322,11310,189857990,1289,1.33,1.5
+42097,46000,46,0.0,2,10,2021,1,State,South Dakota,South Dakota -- Statewide,State Government,"10 Total, all industries",,914,13819,14233,14252,185001129,1009,1.04,1.15
+42098,46000,46,0.0,3,10,2021,1,State,South Dakota,South Dakota -- Statewide,Local Government,"10 Total, all industries",,849,47285,47513,48068,462377330,747,1.18,1.13
+42099,46000,46,0.0,5,10,2021,1,State,South Dakota,South Dakota -- Statewide,Private,"10 Total, all industries",,33126,339921,340128,343764,4180697450,942,0.97,0.97
+42100,46000,46,0.0,5,101,2021,1,State,South Dakota,South Dakota -- Statewide,Private,101 Goods-producing,,6162,71504,70983,72686,928908504,996,1.17,1.18
+42101,46000,46,0.0,5,1011,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1011 Natural resources and mining,,1123,6634,6695,6900,75587730,862,1.42,1.38
+42102,46000,46,0.0,5,1012,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1012 Construction,,3984,21797,21227,22468,277312252,977,1.06,1.14
+42103,46000,46,0.0,5,1013,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1013 Manufacturing,,1055,43073,43061,43318,576008522,1027,1.2,1.17
+42104,46000,46,0.0,5,102,2021,1,State,South Dakota,South Dakota -- Statewide,Private,102 Service-providing,,26964,268417,269145,271078,3251788946,928,0.93,0.92
+42105,46000,46,0.0,5,1021,2021,1,State,South Dakota,South Dakota -- Statewide,Private,"1021 Trade, transportation, and utilities",,8140,83927,83552,84215,916647420,840,1.05,1.2
+42106,46000,46,0.0,5,1022,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1022 Information,,624,4873,4946,4941,72643916,1136,0.6,0.3
+42107,46000,46,0.0,5,1023,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1023 Financial activities,,3485,27531,27521,27523,526824240,1472,1.12,0.84
+42108,46000,46,0.0,5,1024,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1024 Professional and business services,,6209,32875,33003,33426,528593237,1228,0.54,0.53
+42109,46000,46,0.0,5,1025,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1025 Education and health services,,2978,69100,69287,69547,922857593,1024,1.04,1.43
+42110,46000,46,0.0,5,1026,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1026 Leisure and hospitality,,3186,39098,39765,40246,183145750,355,1.06,1.11
+42111,46000,46,0.0,5,1027,2021,1,State,South Dakota,South Dakota -- Statewide,Private,1027 Other services,,2342,11013,11071,11180,101076790,701,0.94,1.1
+43230,47000,47,0.0,0,10,2021,1,State,Tennessee,Tennessee -- Statewide,Total Covered,"10 Total, all industries",,179257,2933069,2945782,2967538,41272441991,1077,1.0,1.0
+43231,47000,47,0.0,1,10,2021,1,State,Tennessee,Tennessee -- Statewide,Federal Government,"10 Total, all industries",,1341,50987,51289,51372,1006846269,1512,0.85,0.97
+43232,47000,47,0.0,2,10,2021,1,State,Tennessee,Tennessee -- Statewide,State Government,"10 Total, all industries",,1343,76756,81495,81593,1136969759,1094,0.83,0.86
+43233,47000,47,0.0,3,10,2021,1,State,Tennessee,Tennessee -- Statewide,Local Government,"10 Total, all industries",,1714,280796,282059,282681,3064496730,836,0.97,0.91
+43234,47000,47,0.0,5,10,2021,1,State,Tennessee,Tennessee -- Statewide,Private,"10 Total, all industries",,174859,2524530,2530939,2551892,36064129233,1094,1.01,1.01
+43235,47000,47,0.0,5,101,2021,1,State,Tennessee,Tennessee -- Statewide,Private,101 Goods-producing,,22512,485427,486184,491569,7335113495,1157,1.11,1.13
+43236,47000,47,0.0,5,1011,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1011 Natural resources and mining,,1149,10608,10845,11154,141967868,1005,0.32,0.32
+43237,47000,47,0.0,5,1012,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1012 Construction,,13386,130018,129766,132715,1842804285,1083,0.88,0.92
+43238,47000,47,0.0,5,1013,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1013 Manufacturing,,7977,344801,345573,347700,5350341342,1189,1.35,1.32
+43239,47000,47,0.0,5,102,2021,1,State,Tennessee,Tennessee -- Statewide,Private,102 Service-providing,,152347,2039103,2044755,2060323,28729015738,1079,0.99,0.99
+43240,47000,47,0.0,5,1021,2021,1,State,Tennessee,Tennessee -- Statewide,Private,"1021 Trade, transportation, and utilities",,41498,641134,639303,640052,7982405745,959,1.12,1.27
+43241,47000,47,0.0,5,1022,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1022 Information,,5326,42827,43726,43758,979730261,1735,0.75,0.5
+43242,47000,47,0.0,5,1023,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1023 Financial activities,,17874,156517,156854,157412,3857267553,1891,0.9,0.74
+43243,47000,47,0.0,5,1024,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1024 Professional and business services,,34778,423654,426457,428023,7848036070,1417,0.98,0.96
+43244,47000,47,0.0,5,1025,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1025 Education and health services,,21974,420970,422821,424814,5685327598,1034,0.89,1.07
+43245,47000,47,0.0,5,1026,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1026 Leisure and hospitality,,17658,282731,284005,293542,1670158924,448,1.08,1.23
+43246,47000,47,0.0,5,1027,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1027 Other services,,12934,70851,71147,72256,698790016,753,0.85,0.92
+43247,47000,47,0.0,5,1029,2021,1,State,Tennessee,Tennessee -- Statewide,Private,1029 Unclassified,,305,419,442,466,7299571,1269,0.12,0.14
+44904,48000,48,0.0,0,10,2021,1,State,Texas,Texas -- Statewide,Total Covered,"10 Total, all industries",,754102,12085551,12106215,12241284,198811021543,1259,1.0,1.0
+44905,48000,48,0.0,1,10,2021,1,State,Texas,Texas -- Statewide,Federal Government,"10 Total, all industries",,3711,210585,210666,210243,4102701315,1499,0.84,0.82
+44906,48000,48,0.0,2,10,2021,1,State,Texas,Texas -- Statewide,State Government,"10 Total, all industries",,3199,368562,371038,371613,5937255596,1233,0.92,0.93
+44907,48000,48,0.0,3,10,2021,1,State,Texas,Texas -- Statewide,Local Government,"10 Total, all industries",,10130,1296252,1307436,1308687,16549956373,976,1.09,1.02
+44908,48000,48,0.0,5,10,2021,1,State,Texas,Texas -- Statewide,Private,"10 Total, all industries",,737062,10210152,10217075,10350741,172221108259,1291,1.0,1.01
+44909,48000,48,0.0,5,101,2021,1,State,Texas,Texas -- Statewide,Private,101 Goods-producing,,102303,1791954,1797061,1828215,38087668397,1623,1.0,1.22
+44910,48000,48,0.0,5,1011,2021,1,State,Texas,Texas -- Statewide,Private,1011 Natural resources and mining,,19390,228447,229348,232929,7464035913,2494,1.64,3.44
+44911,48000,48,0.0,5,1012,2021,1,State,Texas,Texas -- Statewide,Private,1012 Construction,,56200,705320,708162,730777,11920293014,1283,1.18,1.24
+44912,48000,48,0.0,5,1013,2021,1,State,Texas,Texas -- Statewide,Private,1013 Manufacturing,,26713,858187,859551,864509,18703339470,1671,0.81,0.96
+44913,48000,48,0.0,5,102,2021,1,State,Texas,Texas -- Statewide,Private,102 Service-providing,,634759,8418198,8420014,8522526,134133439862,1221,1.0,0.96
+44914,48000,48,0.0,5,1021,2021,1,State,Texas,Texas -- Statewide,Private,"1021 Trade, transportation, and utilities",,154362,2487742,2468894,2481500,36009356152,1117,1.06,1.19
+44915,48000,48,0.0,5,1022,2021,1,State,Texas,Texas -- Statewide,Private,1022 Information,,12792,197464,197600,198460,5953370732,2315,0.83,0.63
+44916,48000,48,0.0,5,1023,2021,1,State,Texas,Texas -- Statewide,Private,1023 Financial activities,,81159,783467,785980,792629,21849757474,2135,1.1,0.88
+44917,48000,48,0.0,5,1024,2021,1,State,Texas,Texas -- Statewide,Private,1024 Professional and business services,,152794,1801431,1811601,1833829,39116470175,1657,1.02,1.0
+44918,48000,48,0.0,5,1025,2021,1,State,Texas,Texas -- Statewide,Private,1025 Education and health services,,99726,1650762,1652833,1658315,20996361889,977,0.84,0.82
+44919,48000,48,0.0,5,1026,2021,1,State,Texas,Texas -- Statewide,Private,1026 Leisure and hospitality,,67614,1176499,1181032,1226513,6680003235,430,1.1,1.02
+44920,48000,48,0.0,5,1027,2021,1,State,Texas,Texas -- Statewide,Private,1027 Other services,,58669,311533,312309,320769,3401067362,831,0.92,0.93
+44921,48000,48,0.0,5,1029,2021,1,State,Texas,Texas -- Statewide,Private,1029 Unclassified,,7643,9300,9765,10511,127052843,991,0.64,0.51
+49416,49000,49,0.0,0,10,2021,1,State,Utah,Utah -- Statewide,Total Covered,"10 Total, all industries",,116741,1533063,1547541,1554924,21399964151,1065,1.0,1.0
+49417,49000,49,0.0,1,10,2021,1,State,Utah,Utah -- Statewide,Federal Government,"10 Total, all industries",,574,38382,38660,38879,673544623,1341,1.23,1.25
+49418,49000,49,0.0,2,10,2021,1,State,Utah,Utah -- Statewide,State Government,"10 Total, all industries",,901,70373,71552,71841,1022111807,1103,1.4,1.49
+49419,49000,49,0.0,3,10,2021,1,State,Utah,Utah -- Statewide,Local Government,"10 Total, all industries",,2554,127240,128316,129614,1396180005,837,0.85,0.8
+49420,49000,49,0.0,5,10,2021,1,State,Utah,Utah -- Statewide,Private,"10 Total, all industries",,112712,1297068,1309013,1314590,18308127716,1078,1.0,0.99
+49421,49000,49,0.0,5,101,2021,1,State,Utah,Utah -- Statewide,Private,101 Goods-producing,,19104,269200,272542,275677,4157664914,1174,1.19,1.24
+49422,49000,49,0.0,5,1011,2021,1,State,Utah,Utah -- Statewide,Private,1011 Natural resources and mining,,1050,13469,13513,13954,220374160,1242,0.77,0.94
+49423,49000,49,0.0,5,1012,2021,1,State,Utah,Utah -- Statewide,Private,1012 Construction,,13304,115423,116875,118851,1713143047,1126,1.51,1.66
+49424,49000,49,0.0,5,1013,2021,1,State,Utah,Utah -- Statewide,Private,1013 Manufacturing,,4750,140308,142154,142872,2224147707,1207,1.06,1.06
+49425,49000,49,0.0,5,102,2021,1,State,Utah,Utah -- Statewide,Private,102 Service-providing,,93608,1027868,1036471,1038913,14150462802,1052,0.96,0.94
+49426,49000,49,0.0,5,1021,2021,1,State,Utah,Utah -- Statewide,Private,"1021 Trade, transportation, and utilities",,20616,299290,299380,298527,3658792166,941,1.0,1.12
+49427,49000,49,0.0,5,1022,2021,1,State,Utah,Utah -- Statewide,Private,1022 Information,,3619,37583,37856,38152,1065963731,2166,1.25,1.05
+49428,49000,49,0.0,5,1023,2021,1,State,Utah,Utah -- Statewide,Private,1023 Financial activities,,13163,94621,95205,95412,2120467483,1716,1.05,0.79
+49429,49000,49,0.0,5,1024,2021,1,State,Utah,Utah -- Statewide,Private,1024 Professional and business services,,27189,225507,227856,227375,3976599069,1348,0.99,0.94
+49430,49000,49,0.0,5,1025,2021,1,State,Utah,Utah -- Statewide,Private,1025 Education and health services,,13922,200416,201865,201286,2244067350,858,0.81,0.82
+49431,49000,49,0.0,5,1026,2021,1,State,Utah,Utah -- Statewide,Private,1026 Leisure and hospitality,,7822,134975,138382,141964,738105786,410,1.0,1.05
+49432,49000,49,0.0,5,1027,2021,1,State,Utah,Utah -- Statewide,Private,1027 Other services,,7185,35405,35858,36120,345068483,742,0.81,0.88
+49433,49000,49,0.0,5,1029,2021,1,State,Utah,Utah -- Statewide,Private,1029 Unclassified,,92,71,69,77,1398734,1487,0.04,0.05
+49933,50000,50,0.0,0,10,2021,1,State,Vermont,Vermont -- Statewide,Total Covered,"10 Total, all industries",,27183,281434,283669,284816,3787822642,1028,1.0,1.0
+49934,50000,50,0.0,1,10,2021,1,State,Vermont,Vermont -- Statewide,Federal Government,"10 Total, all industries",,438,7065,7012,6948,132992327,1460,1.2,1.39
+49935,50000,50,0.0,2,10,2021,1,State,Vermont,Vermont -- Statewide,State Government,"10 Total, all industries",,250,14789,15522,15523,235399108,1185,1.65,1.94
+49936,50000,50,0.0,3,10,2021,1,State,Vermont,Vermont -- Statewide,Local Government,"10 Total, all industries",,735,27978,28155,28068,323772248,887,1.01,1.05
+49937,50000,50,0.0,5,10,2021,1,State,Vermont,Vermont -- Statewide,Private,"10 Total, all industries",,25760,231602,232980,234277,3095658959,1022,0.97,0.95
+49938,50000,50,0.0,5,101,2021,1,State,Vermont,Vermont -- Statewide,Private,101 Goods-producing,,4565,45334,44894,45199,665168537,1133,1.06,1.12
+49939,50000,50,0.0,5,1011,2021,1,State,Vermont,Vermont -- Statewide,Private,1011 Natural resources and mining,,571,3737,3686,3792,36715004,755,1.14,0.89
+49940,50000,50,0.0,5,1012,2021,1,State,Vermont,Vermont -- Statewide,Private,1012 Construction,,2880,13426,13002,13162,171332856,999,0.91,0.94
+49941,50000,50,0.0,5,1013,2021,1,State,Vermont,Vermont -- Statewide,Private,1013 Manufacturing,,1114,28171,28206,28245,457120677,1247,1.14,1.23
+49942,50000,50,0.0,5,102,2021,1,State,Vermont,Vermont -- Statewide,Private,102 Service-providing,,21195,186268,188086,189078,2430490422,995,0.95,0.91
+49943,50000,50,0.0,5,1021,2021,1,State,Vermont,Vermont -- Statewide,Private,"1021 Trade, transportation, and utilities",,5004,51007,50584,50477,557309643,846,0.92,0.96
+49944,50000,50,0.0,5,1022,2021,1,State,Vermont,Vermont -- Statewide,Private,1022 Information,,649,3903,3949,3939,68751841,1346,0.71,0.38
+49945,50000,50,0.0,5,1023,2021,1,State,Vermont,Vermont -- Statewide,Private,1023 Financial activities,,1782,11513,11518,11491,262336794,1754,0.69,0.55
+49946,50000,50,0.0,5,1024,2021,1,State,Vermont,Vermont -- Statewide,Private,1024 Professional and business services,,6927,28301,28518,28613,585540046,1582,0.68,0.78
+49947,50000,50,0.0,5,1025,2021,1,State,Vermont,Vermont -- Statewide,Private,1025 Education and health services,,2562,57825,58816,59680,713659272,934,1.3,1.47
+49948,50000,50,0.0,5,1026,2021,1,State,Vermont,Vermont -- Statewide,Private,1026 Leisure and hospitality,,2228,26436,27398,27444,167689090,476,1.05,1.34
+49949,50000,50,0.0,5,1027,2021,1,State,Vermont,Vermont -- Statewide,Private,1027 Other services,,2043,7283,7303,7434,75203736,788,0.92,1.08
+50203,51000,51,0.0,0,10,2021,1,State,Virginia,Virginia -- Statewide,Total Covered,"10 Total, all industries",,288991,3741239,3747738,3773944,62589282229,1282,1.0,1.0
+50204,51000,51,0.0,1,10,2021,1,State,Virginia,Virginia -- Statewide,Federal Government,"10 Total, all industries",,2027,185661,186034,185705,4330863251,1793,2.41,2.74
+50205,51000,51,0.0,2,10,2021,1,State,Virginia,Virginia -- Statewide,State Government,"10 Total, all industries",,2339,137353,140989,141757,1910989144,1050,1.14,0.96
+50206,51000,51,0.0,3,10,2021,1,State,Virginia,Virginia -- Statewide,Local Government,"10 Total, all industries",,3476,360384,362159,365880,4563401200,968,0.99,0.9
+50207,51000,51,0.0,5,10,2021,1,State,Virginia,Virginia -- Statewide,Private,"10 Total, all industries",,281149,3057841,3058556,3080602,51784028634,1299,0.96,0.96
+50208,51000,51,0.0,5,101,2021,1,State,Virginia,Virginia -- Statewide,Private,101 Goods-producing,,30858,449100,449778,453700,6921310534,1181,0.81,0.7
+50209,51000,51,0.0,5,1011,2021,1,State,Virginia,Virginia -- Statewide,Private,1011 Natural resources and mining,,2092,16277,16465,17106,191844993,888,0.39,0.28
+50210,51000,51,0.0,5,1012,2021,1,State,Virginia,Virginia -- Statewide,Private,1012 Construction,,21513,198628,198067,200389,3018765094,1167,1.05,1.0
+50211,51000,51,0.0,5,1013,2021,1,State,Virginia,Virginia -- Statewide,Private,1013 Manufacturing,,7253,234195,235246,236205,3710700447,1214,0.72,0.6
+50212,51000,51,0.0,5,102,2021,1,State,Virginia,Virginia -- Statewide,Private,102 Service-providing,,250291,2608741,2608778,2626902,44862718100,1320,1.0,1.02
+50213,51000,51,0.0,5,1021,2021,1,State,Virginia,Virginia -- Statewide,Private,"1021 Trade, transportation, and utilities",,42702,642260,633233,635419,7689767239,929,0.88,0.8
+50214,51000,51,0.0,5,1022,2021,1,State,Virginia,Virginia -- Statewide,Private,1022 Information,,5242,64308,64511,64883,2239862682,2668,0.88,0.75
+50215,51000,51,0.0,5,1023,2021,1,State,Virginia,Virginia -- Statewide,Private,1023 Financial activities,,23431,193711,194865,194920,5733015313,2267,0.88,0.73
+50216,51000,51,0.0,5,1024,2021,1,State,Virginia,Virginia -- Statewide,Private,1024 Professional and business services,,61887,754073,755553,760271,19115281917,1943,1.37,1.55
+50217,51000,51,0.0,5,1025,2021,1,State,Virginia,Virginia -- Statewide,Private,1025 Education and health services,,50560,494090,498271,498888,6508693840,1007,0.82,0.81
+50218,51000,51,0.0,5,1026,2021,1,State,Virginia,Virginia -- Statewide,Private,1026 Leisure and hospitality,,20980,313007,314502,322825,1733931864,421,0.94,0.84
+50219,51000,51,0.0,5,1027,2021,1,State,Virginia,Virginia -- Statewide,Private,1027 Other services,,29984,122337,122232,123458,1526256998,957,1.15,1.33
+50220,51000,51,0.0,5,1029,2021,1,State,Virginia,Virginia -- Statewide,Private,1029 Unclassified,,15505,24955,25611,26238,315908247,949,5.18,4.02
+52616,53000,53,0.0,0,10,2021,1,State,Washington,Washington -- Statewide,Total Covered,"10 Total, all industries",,262720,3175756,3207072,3251587,64214072555,1538,1.0,1.0
+52617,53000,53,0.0,1,10,2021,1,State,Washington,Washington -- Statewide,Federal Government,"10 Total, all industries",,1345,76531,76568,76519,1534339402,1542,1.15,0.95
+52618,53000,53,0.0,2,10,2021,1,State,Washington,Washington -- Statewide,State Government,"10 Total, all industries",,1112,132051,132083,131916,2468209902,1438,1.23,1.2
+52619,53000,53,0.0,3,10,2021,1,State,Washington,Washington -- Statewide,Local Government,"10 Total, all industries",,2434,325639,329843,334341,5699421397,1329,1.05,1.09
+52620,53000,53,0.0,5,10,2021,1,State,Washington,Washington -- Statewide,Private,"10 Total, all industries",,257829,2641535,2668578,2708811,54512101854,1569,0.98,0.99
+52621,53000,53,0.0,5,101,2021,1,State,Washington,Washington -- Statewide,Private,101 Goods-producing,,42452,529758,533127,545593,9383537268,1346,1.12,0.93
+52622,53000,53,0.0,5,1011,2021,1,State,Washington,Washington -- Statewide,Private,1011 Natural resources and mining,,6794,78631,81198,87887,715727502,667,2.32,1.02
+52623,53000,53,0.0,5,1012,2021,1,State,Washington,Washington -- Statewide,Private,1012 Construction,,27711,197999,199507,204284,3436944463,1318,1.24,1.11
+52624,53000,53,0.0,5,1013,2021,1,State,Washington,Washington -- Statewide,Private,1013 Manufacturing,,7947,253128,252422,253422,5230865303,1590,0.9,0.83
+52625,53000,53,0.0,5,102,2021,1,State,Washington,Washington -- Statewide,Private,102 Service-providing,,215377,2111777,2135451,2163218,45128564586,1625,0.95,1.0
+52626,53000,53,0.0,5,1021,2021,1,State,Washington,Washington -- Statewide,Private,"1021 Trade, transportation, and utilities",,38921,628681,624817,627216,11249320688,1380,1.01,1.15
+52627,53000,53,0.0,5,1022,2021,1,State,Washington,Washington -- Statewide,Private,1022 Information,,5725,149951,151043,151783,10334366260,5267,2.39,3.39
+52628,53000,53,0.0,5,1023,2021,1,State,Washington,Washington -- Statewide,Private,1023 Financial activities,,19016,147056,147518,148537,4235222076,2206,0.78,0.53
+52629,53000,53,0.0,5,1024,2021,1,State,Washington,Washington -- Statewide,Private,1024 Professional and business services,,45214,418216,422056,427388,10318210004,1878,0.89,0.81
+52630,53000,53,0.0,5,1025,2021,1,State,Washington,Washington -- Statewide,Private,1025 Education and health services,,64775,469169,472539,474437,6455794868,1052,0.91,0.78
+52631,53000,53,0.0,5,1026,2021,1,State,Washington,Washington -- Statewide,Private,1026 Leisure and hospitality,,20961,213279,231011,245669,1462985972,489,0.83,0.69
+52632,53000,53,0.0,5,1027,2021,1,State,Washington,Washington -- Statewide,Private,1027 Other services,,20597,85286,86317,88025,1070807257,952,0.95,0.91
+52633,53000,53,0.0,5,1029,2021,1,State,Washington,Washington -- Statewide,Private,1029 Unclassified,,168,139,150,163,1857461,948,0.04,0.02
+53311,54000,54,0.0,0,10,2021,1,State,West Virginia,West Virginia -- Statewide,Total Covered,"10 Total, all industries",,52368,638085,641035,649415,7615661056,911,1.0,1.0
+53312,54000,54,0.0,1,10,2021,1,State,West Virginia,West Virginia -- Statewide,Federal Government,"10 Total, all industries",,1044,24862,24946,24999,474682043,1464,1.89,2.47
+53313,54000,54,0.0,2,10,2021,1,State,West Virginia,West Virginia -- Statewide,State Government,"10 Total, all industries",,1062,40369,41418,41597,475574775,889,1.94,1.95
+53314,54000,54,0.0,3,10,2021,1,State,West Virginia,West Virginia -- Statewide,Local Government,"10 Total, all industries",,1961,66907,68287,69142,698558825,789,1.09,1.13
+53315,54000,54,0.0,5,10,2021,1,State,West Virginia,West Virginia -- Statewide,Private,"10 Total, all industries",,48301,505947,506384,513677,5966845413,902,0.93,0.91
+53316,54000,54,0.0,5,101,2021,1,State,West Virginia,West Virginia -- Statewide,Private,101 Goods-producing,,6761,89387,89034,91526,1438630752,1230,0.94,1.2
+53317,54000,54,0.0,5,1011,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1011 Natural resources and mining,,1110,18009,18096,18132,361889420,1540,2.4,4.36
+53318,54000,54,0.0,5,1012,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1012 Construction,,4310,26723,26046,28259,365471121,1041,0.86,0.99
+53319,54000,54,0.0,5,1013,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1013 Manufacturing,,1341,44655,44892,45135,711270211,1219,0.8,0.95
+53320,54000,54,0.0,5,102,2021,1,State,West Virginia,West Virginia -- Statewide,Private,102 Service-providing,,41540,416560,417350,422151,4528214661,832,0.93,0.84
+53321,54000,54,0.0,5,1021,2021,1,State,West Virginia,West Virginia -- Statewide,Private,"1021 Trade, transportation, and utilities",,10550,118650,118189,119079,1270334965,824,0.96,1.09
+53322,54000,54,0.0,5,1022,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1022 Information,,863,6929,6981,7029,105459521,1162,0.55,0.29
+53323,54000,54,0.0,5,1023,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1023 Financial activities,,4109,23956,23902,24212,366665309,1174,0.64,0.38
+53324,54000,54,0.0,5,1024,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1024 Professional and business services,,8957,65567,65975,67023,871952538,1013,0.7,0.58
+53325,54000,54,0.0,5,1025,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1025 Education and health services,,8869,125232,125329,126030,1492716154,915,1.21,1.53
+53326,54000,54,0.0,5,1026,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1026 Leisure and hospitality,,4643,60513,61228,62747,284994403,356,1.06,1.13
+53327,54000,54,0.0,5,1027,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1027 Other services,,3484,15555,15573,15863,133869409,657,0.86,0.96
+53328,54000,54,0.0,5,1029,2021,1,State,West Virginia,West Virginia -- Statewide,Private,1029 Unclassified,,65,158,173,168,2222362,1028,0.19,0.23
+54295,55000,55,0.0,0,10,2021,1,State,Wisconsin,Wisconsin -- Statewide,Total Covered,"10 Total, all industries",,183535,2713512,2716884,2735358,37012864363,1046,1.0,1.0
+54296,55000,55,0.0,1,10,2021,1,State,Wisconsin,Wisconsin -- Statewide,Federal Government,"10 Total, all industries",,1279,29882,29802,29833,496339243,1280,0.53,0.53
+54297,55000,55,0.0,2,10,2021,1,State,Wisconsin,Wisconsin -- Statewide,State Government,"10 Total, all industries",,631,80248,80511,80679,1239473609,1185,0.9,1.05
+54298,55000,55,0.0,3,10,2021,1,State,Wisconsin,Wisconsin -- Statewide,Local Government,"10 Total, all industries",,5631,255323,261175,260538,2966205522,881,0.97,0.99
+54299,55000,55,0.0,5,10,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,"10 Total, all industries",,175994,2348059,2345396,2364308,32310845989,1056,1.02,1.01
+54300,55000,55,0.0,5,101,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,101 Goods-producing,,26980,598850,592618,602367,9150270035,1177,1.48,1.57
+54301,55000,55,0.0,5,1011,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1011 Natural resources and mining,,2874,27886,27803,28827,285320027,779,0.91,0.71
+54302,55000,55,0.0,5,1012,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1012 Construction,,14922,113248,107675,114170,1778845471,1225,0.82,0.99
+54303,55000,55,0.0,5,1013,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1013 Manufacturing,,9184,457716,457140,459370,7086104537,1190,1.94,1.95
+54304,55000,55,0.0,5,102,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,102 Service-providing,,149014,1749209,1752778,1761941,23160575954,1015,0.92,0.89
+54305,55000,55,0.0,5,1021,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,"1021 Trade, transportation, and utilities",,36056,528350,521599,523626,5853371902,858,1.0,1.04
+54306,55000,55,0.0,5,1022,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1022 Information,,2571,44620,44391,44251,1002578556,1736,0.83,0.57
+54307,55000,55,0.0,5,1023,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1023 Financial activities,,14919,148709,149767,149737,3634211958,1871,0.93,0.78
+54308,55000,55,0.0,5,1024,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1024 Professional and business services,,27982,309758,311545,310621,5443254258,1348,0.77,0.74
+54309,55000,55,0.0,5,1025,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1025 Education and health services,,32740,427528,429979,430832,5504809470,986,0.98,1.16
+54310,55000,55,0.0,5,1026,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1026 Leisure and hospitality,,16777,212947,217021,222722,999934472,354,0.89,0.82
+54311,55000,55,0.0,5,1027,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1027 Other services,,13268,72633,72958,73974,646162417,679,0.95,0.95
+54312,55000,55,0.0,5,1029,2021,1,State,Wisconsin,Wisconsin -- Statewide,Private,1029 Unclassified,,4701,4664,5518,6178,76252921,1076,1.68,1.64
+55554,56000,56,0.0,0,10,2021,1,State,Wyoming,Wyoming -- Statewide,Total Covered,"10 Total, all industries",,27729,253905,255034,256795,3158949914,952,1.0,1.0
+55555,56000,56,0.0,1,10,2021,1,State,Wyoming,Wyoming -- Statewide,Federal Government,"10 Total, all industries",,409,7208,7229,7256,122678886,1305,1.39,1.54
+55556,56000,56,0.0,2,10,2021,1,State,Wyoming,Wyoming -- Statewide,State Government,"10 Total, all industries",,462,12256,12316,12379,176637737,1103,1.46,1.75
+55557,56000,56,0.0,3,10,2021,1,State,Wyoming,Wyoming -- Statewide,Local Government,"10 Total, all industries",,617,44145,45012,45237,529788695,910,1.8,2.06
+55558,56000,56,0.0,5,10,2021,1,State,Wyoming,Wyoming -- Statewide,Private,"10 Total, all industries",,26241,190296,190477,191923,2329844596,939,0.88,0.86
+55559,56000,56,0.0,5,101,2021,1,State,Wyoming,Wyoming -- Statewide,Private,101 Goods-producing,,5480,44436,43941,44831,744474427,1290,1.17,1.5
+55560,56000,56,0.0,5,1011,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1011 Natural resources and mining,,1419,16589,16576,16737,351322835,1625,5.6,10.2
+55561,56000,56,0.0,5,1012,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1012 Construction,,3425,18310,17956,18677,230946267,970,1.43,1.51
+55562,56000,56,0.0,5,1013,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1013 Manufacturing,,636,9537,9409,9417,162205325,1320,0.42,0.52
+55563,56000,56,0.0,5,102,2021,1,State,Wyoming,Wyoming -- Statewide,Private,102 Service-providing,,20761,145860,146536,147092,1585370169,832,0.82,0.71
+55564,56000,56,0.0,5,1021,2021,1,State,Wyoming,Wyoming -- Statewide,Private,"1021 Trade, transportation, and utilities",,4821,48540,48314,48345,525834671,836,0.98,1.09
+55565,56000,56,0.0,5,1022,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1022 Information,,452,2926,2889,2882,40322105,1070,0.57,0.27
+55566,56000,56,0.0,5,1023,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1023 Financial activities,,2453,10803,10895,10904,201203966,1424,0.72,0.51
+55567,56000,56,0.0,5,1024,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1024 Professional and business services,,5274,18142,18449,18597,279765334,1170,0.49,0.45
+55568,56000,56,0.0,5,1025,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1025 Education and health services,,3538,27219,27373,27338,293683371,827,0.66,0.73
+55569,56000,56,0.0,5,1026,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1026 Leisure and hospitality,,2425,31539,31908,32231,177553734,428,1.37,1.7
+55570,56000,56,0.0,5,1027,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1027 Other services,,1676,6574,6594,6670,64260648,748,0.91,1.11
+55571,56000,56,0.0,5,1029,2021,1,State,Wyoming,Wyoming -- Statewide,Private,1029 Unclassified,,122,117,114,125,2746340,1780,0.36,0.69

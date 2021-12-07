@@ -9,6 +9,10 @@ Created on Fri Dec  3 20:04:53 2021
 import os
 from datetime import date
 from datetime import timedelta
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
 
 
 import time
@@ -135,7 +139,12 @@ def scrape_indeed(role, location):
         print(job.__str__())
         print('****************************************************************************')
     
-    
+def autopct_format(values):
+    def my_format(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{v:d}'.format(v=val)
+    return my_format
     
 
 def main():   
@@ -147,6 +156,7 @@ def main():
 4: See Jobs from ZipRecruiter (Webscraping). 
 5: See All Jobs. 
 6: See Industry insights
+7: See Job Postings Over Time
 Please enter your choice: """))
         if choice == 2 :
             role = input('Enter the role: ')
@@ -161,16 +171,29 @@ Please enter your choice: """))
             # zp =  ZipRecruiter()
             # zp.get_url(role,location)
             # zp.search_dir()
-        elif choice == 3:
-            role = input('Enter the role: ')
-            location = input ('Enter the location: ')
-            scrape_indeed(role, location)
+        elif choice == 6:
+            state = input('Please Enter the full name of the state you are interested in:\n')
+            quarter1 = pd.read_csv('data\\Quarter1_StateWide.csv')
+            quarter2 = pd.read_csv('data\\Quarter2_StateWide.csv')
+            
+            quarter1_state = quarter1[quarter1['Area'] == (state.capitalize() + ' -- Statewide')]
+            quarter2_state = quarter2[quarter2['Area'] == (state.capitalize() + ' -- Statewide')]
+
+ 
+            state_total_employment = quarter1_state['January Employment'] + quarter1_state['February Employment'] + quarter1_state['March Employment']
+            + quarter2_state['April Employment'] + quarter2_state['May Employment'] + quarter2_state['June Employment']
+        
+            state_total_employment = state_total_employment.iloc[5:]
+            industry = quarter1_state['Industry'].iloc[5:]
+           
+            plt.pie(state_total_employment, labels = industry, autopct = autopct_format(state_total_employment))
+
+            plt.title('Jobs added per industry in ' + state + ' from Jan-June 2021')
+            plt.show()
     
-    
-    
-   
-      
-    
+
+
+
         
     
     
