@@ -72,7 +72,7 @@ def apidata_Remotive(role): #optimised for 20 results to be fetched
     #jobsDF = jobs1.append(jobs2)
    # jobsDF.reset_index(drop=True, inplace=True)
     recent_jobs = jobs1[jobs1['date_posted']==str(yest)]
-    jobs1.to_csv('file_name.csv', sep=',')    
+    jobs1.to_csv('file_name.csv', mode = 'a', sep=',')    
     jobs = jobs1.head(20)
     
 
@@ -108,7 +108,7 @@ def apidata_google(role, location): #optimised for 20 results to be fetched
     jobsDF = jobs1.append(jobs2)
     jobsDF.reset_index(drop=True, inplace=True)
 
-    jobsDF.to_csv('file_name.csv', sep=',')    
+    jobsDF.to_csv('file_name.csv', mode = 'a' , sep=',')    
     
     
 
@@ -127,9 +127,10 @@ def scrape_indeed(role, location):
     indeed.scrape(role, location)
     jobList = indeed.getJobList()
     jobsDF = pd.DataFrame((job.getJobTitle(), job.getCompanyName(), job.getCompanyLocation(), job.getJobDescription()) for job in jobList)
-    print(jobsDF)
-    for job in jobList:
-        
+    jobsDF = jobsDF.rename(columns={0: "job_title", 1: "company_name",2: "company_location",3: "job_description"})
+
+    jobsDF.to_csv('file_name.csv', mode = 'a' , sep=',')
+    for job in jobList:       
         print(job.__str__())
         print('****************************************************************************')
     
@@ -190,12 +191,9 @@ Please enter your choice: """))
             plt.title('Jobs added per industry in ' + state + ' from Jan-June 2021')
             plt.show()
             
-    
+        # elif choice == 5:
+        #     print('Here are the jobs you have searched for:')
+        #     print(pd.read_csv('filename.csv'))
 
-
-
-        
-    
-    
 if __name__=="__main__":
     main()
