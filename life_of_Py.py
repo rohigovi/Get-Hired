@@ -10,7 +10,6 @@ import os
 from datetime import date
 from datetime import timedelta
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 
 
@@ -56,11 +55,6 @@ def apidata_Remotive(role): #optimised for 20 results to be fetched
         print(data['jobs'][0])
         print(type(data))
         df1 = pd.json_normalize(data['jobs'])
-       
-       
-
-
-
     
     jobs1 = df1[['id','title','company_name','candidate_required_location','publication_date']]
     desc= df1['description']
@@ -165,6 +159,11 @@ Please enter your choice: """))
             role = input('Enter the role: ')
             location = input ('Enter the location: ')
             apidata_google(role,location)
+        elif choice == 3:
+            role = input('Enter the role: ')
+            location = input ('Enter the location: ')
+            scrape_indeed(role,location)
+            
         elif choice == 4:
             role = input('Enter the role: ')
             # location = input ('Enter the location: ')
@@ -190,6 +189,7 @@ Please enter your choice: """))
 
             plt.title('Jobs added per industry in ' + state + ' from Jan-June 2021')
             plt.show()
+            
     
 
 
