@@ -21,7 +21,7 @@ class Job:
     def setCompanyName(self,company_name):
         self._company_name = company_name
     def getCompanyLocation(self):
-        return self._get_company_location
+        return self._company_location
     def setCompanyLocation(self, company_location):
         self._company_location = company_location
     def getJobDescription(self):
