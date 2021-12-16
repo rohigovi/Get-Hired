@@ -3,7 +3,7 @@ Contains code for Life of .Py's DFP project
 
 
 Team Members:
-Dhwani Shah
+Dhwani 
 Nirmalsing Patil
 Subhav Kalra
 Rohit Govindan
