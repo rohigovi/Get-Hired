@@ -1,42 +1,15 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  3 20:04:53 2021
-
-@author: nirmalpatil
-"""
-
 import os
 from datetime import date
 from datetime import timedelta
 import matplotlib.pyplot as plt
-
-
-
-
+import numpy as np
 import time
-
-from selenium import webdriver
-#from webdriver_manager.chrome import ChromeDriverManager
-
 from Job import Job
-#from ziprecruiter import ZipRecruiter
+from ZipRecruiter import ZipRecruiter
 from IndeedScraper import IndeedScraper
-import pandas as pd
-
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument("--disable-extensions")
-chrome_options.add_argument("--incognito")
-#driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), chrome_options=chrome_options)
-
-#os.chdir('/Users/nirmalpatil/Desktop/CMU/DFP/Project')
-os.chdir('C:\\Users\\rohig\\OneDrive\\Documents\\GitHub\\Data_Focused_Python_Project')
- 
 import json
 import requests
 import pandas as pd
-
 from bs4 import BeautifulSoup
 
 pd.set_option('display.max_rows', 500)
@@ -136,6 +109,23 @@ def scrape_indeed(role, location):
 
         print('****************************************************************************')
     return jobsDF
+
+def scrape_zip_recruiter(role, location):
+    zip_recruiter = ZipRecruiter(role, location)
+    zip_recruiter.get_url()
+    job_list = zip_recruiter.get_job_list()
+    if len(job_list) != 0:
+        jobs_DF = pd.DataFrame(
+            (job.getJobTitle(), job.getCompanyName(), job.getCompanyLocation(), job.getJobDescription()) for job in
+            job_list)
+        jobs_DF = jobs_DF.rename(
+            columns={0: "job_title", 1: "company_name", 2: "company_location", 3: "job_description"})
+        jobs_DF.to_csv('ZipRcruiter', mode='a', sep=',')
+        for job in job_list:
+            print(job.__str__())
+            print('****************************************************************************')
+    else:
+        print("Sorry! No jobs found. Try another combination :).")
     
 def autopct_format(values):
     def my_format(pct):
@@ -154,7 +144,6 @@ def main():
 4: See Jobs from ZipRecruiter (Webscraping). 
 5: See All Jobs. 
 6: See Industry insights
-7: See Job Postings Over Time
 Please enter your choice: """))
         
         role = ''
@@ -176,14 +165,12 @@ Please enter your choice: """))
             
         elif choice == 4:
             role = input('Enter the role: ')
-            # location = input ('Enter the location: ')
-            # zp =  ZipRecruiter()
-            # zp.get_url(role,location)
-            # zp.search_dir()
+            location = input('Enter the location: ')
+            scrape_zip_recruiter(role, location)
         elif choice == 5:
-            inp = input(""""Do you want(enter 1 or 2)
+            inp = int(input(""""Do you want(enter 1 or 2)
                         1.Analytics on your previous searches
-                        2.Start a fresh search""")
+                        2.Start a fresh search"""))
             if(inp == 1):        
                 if(df_all.empty):
                     print('You don\'t have data stored from previous searches, try other menu options')
@@ -193,15 +180,41 @@ Please enter your choice: """))
                     #Plots
                 
             elif(inp == 2):
-                df_all_new = []
+                df_all_new = pd.DataFrame()
                 role = input('Starting a new search...Enter the role: ')
-                
                 #Clearing the file: 
-                df_all_new = pd.concat([df_all_new, scrape_indeed(role, '')],axis = 1)
-                df_all_new.plot(x='date_posted', y='job_title', style='o')
+                frames = [  scrape_indeed(role,''), apidata_google(role,'')]
+                df_all_new = pd.concat(frames)
+                print(df_all_new)
+                df_groupby =df_all_new.groupby('company_name').count().reset_index()
+                df_plot = df_groupby.sort_values(['job_title'], ascending = False).head(10)
+                
+                import numpy as np
+                # fig = plt.figure()
+                # ax = plt.axes(projection='3d')
+                # zline = df_groupby['job_title']
+                # xline = df_groupby['company_name']
+                # yline =  df_groupby['company_location']
+                # ax.plot3D(xline, yline, zline, 'gray')
+                # df_all_new.plot(x='date_posted', y='job_title', style='o')
+                fig = plt.figure()
+                ax = fig.add_axes([0,0,1,1])
+                comp = df_plot['company_name']
+                job_title = df_plot['job_title']
+                ax.bar(comp,job_title)
+                plt.xticks(rotation = 45)
 
+                plt.show()
+                df_groupby =df_all_new.groupby('company_location').count().reset_index()
+                df_plot = df_groupby.sort_values(['job_title'], ascending = False).head(10)
+                fig2 = plt.figure()
+                ax = fig2.add_axes([0,0,1,1])
+                comp = df_plot['company_location']
+                job_title = df_plot['job_title']
+                ax.bar(comp,job_title)
+                plt.xticks(rotation = 45)
 
-            
+                plt.show()
         elif choice == 6:
             state = input('Please Enter the full name of the state you are interested in:\n')
             quarter1 = pd.read_csv('data\\Quarter1_StateWide.csv')
@@ -216,16 +229,14 @@ Please enter your choice: """))
         
             state_total_employment = state_total_employment.iloc[5:]
             industry = quarter1_state['Industry'].iloc[5:]
-           
-            plt.pie(state_total_employment, labels = industry, autopct = autopct_format(state_total_employment))
+            plt.pie(state_total_employment, labels = industry)
+
+         #   plt.pie(state_total_employment, labels = industry, autopct = autopct_format(state_total_employment))
 
             plt.title('Jobs added per industry in ' + state + ' from Jan-June 2021')
             plt.show()
-        
-            
-        # elif choice == 5:
-        #     print('Here are the jobs you have searched for:')
-        #     print(pd.read_csv('filename.csv'))
+        elif choice > 6 or choice < 0:
+            quit()
 
 if __name__=="__main__":
     main()
