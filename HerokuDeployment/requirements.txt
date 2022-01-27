@@ -1,0 +1,7 @@
+pandas==1.2.4
+requests==2.25.1
+django
+gunicorn
+django-heroku
+twilio ~= 6.0.0
+beautifulsoup4
